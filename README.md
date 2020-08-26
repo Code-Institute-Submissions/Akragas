@@ -1,39 +1,30 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Akrágas Website
+## First Milestone Project for Code Institute Diploma in Fullstack Web Development
 
-Welcome charliekranz,
+***
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, has astounded visitors.<br>
+And yet many people are still unaware of its existence!<br>
 
-## Gitpod Reminders
+The Akrágas webite seeks to introduce Akrágas to a wider audience.<br>
+Using evocative, representative images and video; interesting facts, quotes and historical context, as well a direct link to booking site - this website will connect people to the place <br>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+As someone with ties to the ancient city (my grandafather and our ancestors are from the area) I am passionate about sharing this remarkable location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy ongoing interest from tourists, historians and adventure seekers alike.
 
-`python3 -m http.server`
+# Credits
 
-A blue button should appear to click: *Make Public*,
+***
 
-Another blue button should appear to click: *Open Browser*.
+#### README
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md>
+<https://www.markdownguide.org/basic-syntax/>
 
-A blue button should appear to click: *Make Public*,
+#### Bootstrap
 
-Another blue button should appear to click: *Open Browser*.
+<https://getbootstrap.com/docs/4.4/layout/grid/>
+<https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background>
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+#### Akrágas Content and Images
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
