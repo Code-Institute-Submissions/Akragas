@@ -11,10 +11,53 @@ Using evocative, representative images and video; interesting facts, quotes and 
 
 As someone with ties to the ancient city *(my grandafather and our ancestors are from the area)* I am passionate about sharing this remarkable location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy increased and ongoing interest from tourists, historians and adventure seekers alike.
 
+***
 
-# Credits
+## UX
 
 ***
+
+## Features
+
+**Header Section**
+
+**Header Section**
+
+**Hero-Home Section**
+
+**About Section**
+
+**The Temples Section**
+
+**Gallery Section**
+
+**Visit Section**
+
+**Contact Section**
+
+**Footer Section**
+
+***
+
+## Technologies Used
+
+***
+
+## Testing
+
+***
+
+## Deployment
+
+***
+
+## Credits
+
+### Content
+
+#### Text
+
+### Images
 
 #### README
 
@@ -33,6 +76,6 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 Slider Comparion <br>
 <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 
-#### Akrágas Content and Images
+
 
 
