@@ -31,6 +31,19 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
     a. As a Returning Time Visitor, I want to easily understand the content and subject matter of the website. <br>
 
 
+* **Design**
+    * **Colours**  <br>
+    * <br>
+
+    * **Typography**  <br>
+    * <br>
+
+    * **Imagery**  <br>
+    * <br>
+
+* **Wireframes**
+    * **Desktop Wireframe**  [view](https://github.com/charliekranz/Akragas/blob/fdcdba2327f9a91d6a108a2854e365c93fad3b2f/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
+    * **Mobile Wireframe**  [view](https://github.com/charliekranz/Akragas/blob/fdcdba2327f9a91d6a108a2854e365c93fad3b2f/wireframes/Akragas-Mobile-wireframe.pdf)<br>
 
 ***
 
