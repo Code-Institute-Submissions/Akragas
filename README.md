@@ -1,4 +1,8 @@
-# Akrágas Website
+# <center>Akrágas Website</center>
+<hr>
+
+<a href="#" target="_blank">View live project here</a>
+
 ## First Milestone Project for Code Institute Diploma in Fullstack Web Development
 
 ***
@@ -13,7 +17,20 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 ***
 
-## UX
+## UX (User Experience)
+
+* **User Stories**
+    * **First Time Visitor Goals**  <br>
+    a. As a First Time Visitor, I want to easily understand the content and subject matter of the website. <br>
+    b. As a First Time Visitor, I want to be able to easily navigate the site ro see content and subject matter. <br>
+    c. As a First Time Visitor, I want to see visual examples of the subject matter. <br>
+    d. As a First Time Visitor, I want to read interesting and pertinent facts which help explain why the subject matter is remarkable. <br>
+    e. As a First Time Visitor, I want to learn how I might be able to visit the place in person. <br>
+
+    * **Returning Visitor Goals** <br>
+    a. As a Returning Time Visitor, I want to easily understand the content and subject matter of the website. <br>
+
+
 
 ***
 
