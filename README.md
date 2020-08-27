@@ -42,8 +42,8 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
     * <br>
 
 * **Wireframes**
-    * **Desktop Wireframe**  [view](https://github.com/charliekranz/Akragas/blob/fdcdba2327f9a91d6a108a2854e365c93fad3b2f/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
-    * **Mobile Wireframe**  [view](https://github.com/charliekranz/Akragas/blob/fdcdba2327f9a91d6a108a2854e365c93fad3b2f/wireframes/Akragas-Mobile-wireframe.pdf)<br>
+    * **Desktop Wireframe**  [view](https://github.com/charliekranz/Akragas/blob/master/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
+    * **Mobile Wireframe**  [view](https://github.com/charliekranz/Akragas/blob/master/wireframes/Akragas-Mobile-wireframe.pdf)<br>
 
 ***
 
