@@ -51,8 +51,8 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
         - Imagery will be vitally important for conveying the scale and scope of this archaelogical site. Video will be further uesful in showing how Akgrágas was believed to look when the ancient coty was flourishing.
 
 - #### Wireframes
-    - #### Desktop Wireframe [view](https://github.com/charliekranz/Akragas/blob/master/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
-    - #### Mobile Wireframe  [view](https://github.com/charliekranz/Akragas/blob/master/wireframes/Akragas-Mobile-wireframe.pdf)<br>
+    - #### Desktop Wireframe [view](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
+    - #### Mobile Wireframe  [view](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Mobile-wireframe.pdf)<br>
 
 
 ## Features
@@ -77,6 +77,8 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - ### Footer Section - a secondary  navigation section and links to associated websites like UNESCO
 
+- ### Responsivity - Responsive across devices
+
 ## Technologies Used
 
 ***
@@ -99,19 +101,21 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 #### README
 
-<https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md>
-<br>
-<https://www.markdownguide.org/basic-syntax/>
+- <https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md>
+- <https://www.markdownguide.org/basic-syntax/>
 
 #### Bootstrap
 
-<https://getbootstrap.com/docs/4.4/layout/grid/>
-<br>
-<https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background>
+- <https://getbootstrap.com/docs/4.4/layout/grid/>
+- <https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background>
+
+#### Google Fonts
+
+- <https://www.gyanblog.com/gyan/how-to-use-google-fonts-website-bootstrap/>
 
 #### Additional Code Examples
 
-Slider Comparion <br>
+Slider Comparion
 <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 
 
