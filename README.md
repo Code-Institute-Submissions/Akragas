@@ -54,29 +54,28 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
     - #### Desktop Wireframe [view](https://github.com/charliekranz/Akragas/blob/master/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
     - #### Mobile Wireframe  [view](https://github.com/charliekranz/Akragas/blob/master/wireframes/Akragas-Mobile-wireframe.pdf)<br>
 
-***
 
 ## Features
 
-**Header Section**
+- ### Header Section - allows user to see site identity and concept via logo
+    
+- ### Navigation Section - allows user to navigate to different sections / features
 
-**Header Section**
+- ### Hero-Home Section - captures user's attention and conveys subject matter using compelling images and quote
 
-**Hero-Home Section**
+- ### About Section - shows user the 3d model recreation video, conveys a summary of topic and includes another interesting quote
 
-**About Section**
+- ### Timeline Section - allows user to see an overview of important evenrs relating to topic
 
-**The Temples Section**
+- ### The Temples Section - allows users to see an overview of Temples and breakdown of each
 
-**Gallery Section**
+- ### Gallery Section - allows users to see a selection of images
 
-**Visit Section**
+- ### Visit Section - allows user to see location on Google map and click-link to Booking website
 
-**Contact Section**
+- ### Contact Section - allows users to send message and/or visit social media accounts
 
-**Footer Section**
-
-***
+- ### Footer Section - a secondary  navigation section and links to associated websites like UNESCO
 
 ## Technologies Used
 
