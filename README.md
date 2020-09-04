@@ -108,6 +108,7 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - <https://getbootstrap.com/docs/4.4/layout/grid/>
 - <https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background>
+- <https://hackerthemes.com/bootstrap-cheatsheet/>
 
 #### Google Fonts
 

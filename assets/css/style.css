@@ -1,6 +1,12 @@
+/* General */
+
+.inline-block {
+    display: inline-block;
+}
+
 /* Fonts */
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Lexend Peta', sans-serif;
 }
 
@@ -12,6 +18,7 @@ p {
 
 .logo {    
     border: 1px solid grey;
+
 }
 
 .navigation {    
@@ -23,3 +30,21 @@ p {
 .menu {
     border: 1px solid blue;
 }
+
+header {
+
+}
+
+/* Home */
+
+.hero-image {
+    border: 1px solid grey;
+}
+
+/* About */
+
+/* Gallery */
+
+/* Visit */
+
+/* Contact */
