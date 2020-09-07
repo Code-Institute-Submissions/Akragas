@@ -32,6 +32,8 @@ p {
 
 /* Menu */
 
+
+
 .menu {
     border: 1px solid blue;
 }
@@ -45,13 +47,18 @@ header {
 /* Home */
 
 .hero-image {
-    border: 1px solid grey;
+    background: url("/assets/images/akragas-panorama.jpg");
+    background-position: center;
+    height: vh-100;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 420px;
 }
 
 /* About */
 
 .about {
-    border: 1px solid grey;
+    background-color: #efefef;
 }
 
 /* Temples */ 
