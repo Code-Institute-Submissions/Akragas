@@ -54,11 +54,16 @@ header {
     border: 1px solid grey;
 }
 
+/* Temples */ 
+
+.temples {
+    background-color: #EBC338;
+}
 
 /* Gallery */
 
 .gallery {
-    border: 1px solid grey;
+    background-color: #75C8FF;
 }
 
 /* Visit */
@@ -70,11 +75,16 @@ header {
 /* Contact */
 
 .contact {
-    border: 1px solid grey;
-}
+    background-color: #FFD53D; }
 
 /* Footer */
 
 .footer {
-    background-color: #660000;
+    height: 100px;
+    background-color: #660012;
+}
+
+.footer-menu a {
+    text-align: center;
+    color: #b3122f;
 }

@@ -114,6 +114,9 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - <https://www.gyanblog.com/gyan/how-to-use-google-fonts-website-bootstrap/>
 
+#### Colours
+- <https://paletton.com/>
+
 #### Additional Code Examples
 
 Slider Comparion
