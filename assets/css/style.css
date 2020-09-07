@@ -14,6 +14,14 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 
+.title {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+}
+
 /* Logo */
 
 .logo {    
@@ -21,15 +29,14 @@ p {
 
 }
 
-.navigation {    
-    height: 80px;
-}
 
 /* Menu */
 
 .menu {
     border: 1px solid blue;
 }
+
+
 
 header {
 
@@ -43,8 +50,31 @@ header {
 
 /* About */
 
+.about {
+    border: 1px solid grey;
+}
+
+
 /* Gallery */
+
+.gallery {
+    border: 1px solid grey;
+}
 
 /* Visit */
 
+.visit {
+    border: 1px solid grey;
+}
+
 /* Contact */
+
+.contact {
+    border: 1px solid grey;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #660000;
+}
