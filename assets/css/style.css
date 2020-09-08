@@ -41,7 +41,7 @@ header {
     color: rgba(102,0,18,1);
 }
 
-.nav-link li {
+.nav-item a {
     color: rgba(102,0,18,1);
 }
 
@@ -85,7 +85,7 @@ header {
 /* Gallery */
 
 .gallery {
-    background-color: #75C8FF;
+    background-color: #73aecf;
 }
 
 /* Visit */
