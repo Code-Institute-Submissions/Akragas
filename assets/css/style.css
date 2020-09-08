@@ -74,30 +74,36 @@ header {
 
 .about {
     background-color: #efefef;
+    height: 100vh;
 }
 
 /* Temples */ 
 
 .temples {
     background-color: #EBC338;
+    height: 60vh;
 }
 
 /* Gallery */
 
 .gallery {
     background-color: #73aecf;
+    height: 60vh;
 }
 
 /* Visit */
 
 .visit {
-    border: 1px solid grey;
+    background-color: #fefefe;
+    height: 60vh;
 }
 
 /* Contact */
 
 .contact {
-    background-color: #FFD53D; }
+    background-color: #FFD53D; 
+    height: 60vh;
+    }
 
 /* Footer */
 
@@ -107,6 +113,15 @@ header {
 }
 
 .footer-menu a {
+    margin-top: 10px;
     text-align: center;
+    text-transform: uppercase;
+    color: #b3122f;
+}
+
+.footer-menu p {
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
     color: #b3122f;
 }
