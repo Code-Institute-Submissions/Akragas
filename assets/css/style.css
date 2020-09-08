@@ -30,6 +30,22 @@ p {
     color: #505050;
 }
 
+.btn-primary {
+    color: #b3122f;
+    background-color: #660012;
+    border-color: #660012;
+    font-family: 'Lexend Peta', sans-serif;
+    text-transform: uppercase;
+    font-size: 0.85em;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #f8123c;
+    background-color: #8f001a;
+    border-color: #8f001a; /*set the color you want here*/
+}
+
+
 /* Logo */
 
 .logo {    
@@ -46,7 +62,7 @@ header {
 }
 
 .navbar-brand h1 {
-    color: rgba(102,0,18,1);
+    color: rgb(216, 196, 200);
 }
 
 .nav-item a {
@@ -54,11 +70,11 @@ header {
 }
 
 .menu {
-     background-color: #FFD53D;
+     background-color: #AD9C9F;
 }
 
 .bg-light {
-    background-color: #FFD53D!important;
+    background-color: #AD9C9F!important;
 }
 
 
@@ -94,7 +110,7 @@ header {
 /* Temples */ 
 
 .temples {
-    background-color: #666552;
+    background-color: #AD9C9F;
     height: 60vh;
 }
 
@@ -115,7 +131,7 @@ header {
 /* Contact */
 
 .contact {
-    background-color: #B3122F; 
+    background-color: #6B682A; 
     height: 60vh;
     }
 
@@ -139,7 +155,7 @@ header {
 .footer-menu a:hover {
     text-align: center;
     text-transform: uppercase;
-    color: #73aecf;
+    color: #74A0B3;
     text-decoration: none;
 }
 
