@@ -33,16 +33,19 @@ p {
 /* Menu */
 
 
-
-.menu {
-    border: 1px solid blue;
-}
-
-
-
 header {
 
 }
+
+
+.menu {
+     background-color: #FFD53D;
+}
+
+.bg-light {
+    background-color: #FFD53D!important;
+}
+
 
 /* Home */
 
