@@ -30,7 +30,7 @@ p {
     color: #505050;
 }
 
-.btn-primary {
+.btn-book {
     color: #b3122f;
     background-color: #660012;
     border-color: #660012;
@@ -39,7 +39,7 @@ p {
     font-size: 0.85em;
 }
 
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+.btn-book:hover, .btn-book:focus, .btn-book:active, .btn-book.active, .open>.dropdown-toggle.btn-book {
     color: #f8123c;
     background-color: #8f001a;
     border-color: #8f001a; /*set the color you want here*/
