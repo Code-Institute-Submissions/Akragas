@@ -22,6 +22,14 @@ p {
     text-align: center;
 }
 
+.red {
+    color: #660012;
+}
+
+.grey {
+    color: #505050;
+}
+
 /* Logo */
 
 .logo {    
@@ -75,6 +83,12 @@ header {
 .about {
     background-color: #efefef;
     height: 100vh;
+}
+
+.about-title {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* Temples */ 
