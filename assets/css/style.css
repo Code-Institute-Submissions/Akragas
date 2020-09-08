@@ -112,11 +112,21 @@ header {
     background-color: #660012;
 }
 
-.footer-menu a {
+.footer-menu {
     margin-top: 10px;
+}
+
+.footer-menu a {
     text-align: center;
     text-transform: uppercase;
     color: #b3122f;
+}
+
+.footer-menu a:hover {
+    text-align: center;
+    text-transform: uppercase;
+    color: #73aecf;
+    text-decoration: none;
 }
 
 .footer-menu p {
