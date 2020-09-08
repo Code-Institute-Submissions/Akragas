@@ -37,6 +37,13 @@ header {
 
 }
 
+.navbar-brand h1 {
+    color: rgba(102,0,18,1);
+}
+
+.nav-link li {
+    color: rgba(102,0,18,1);
+}
 
 .menu {
      background-color: #FFD53D;
