@@ -117,10 +117,13 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 #### Colours
 - <https://paletton.com/>
 
-#### Additional Code Examples
+#### Additional Code Used
 
 Slider Comparion
 <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
+
+Hover css
+<https://ianlunn.github.io/Hover/#effects>
 
 
 

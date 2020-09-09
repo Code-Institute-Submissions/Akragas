@@ -62,19 +62,19 @@ header {
 }
 
 .navbar-brand h1 {
-    color: rgb(216, 196, 200);
+    color: #AD9C9F;
 }
 
 .nav-item a {
-    color: rgba(102,0,18,1);
+    color: #AD9C9F;
 }
 
 .menu {
-     background-color: #AD9C9F;
+     background-color: #f7eaec;
 }
 
 .bg-light {
-    background-color: #AD9C9F!important;
+    background-color: #f7eaec!important;
 }
 
 
