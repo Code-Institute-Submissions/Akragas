@@ -33,9 +33,9 @@ p {
 /* Buttons */
 
 .btn-book {
-    color: #b3122f;
-    background-color: #660012;
-    border-color: #660012;
+    color: #efefef;
+    background-color: #8f001a;
+    border-color: #8f001a;
     font-family: 'Lexend Peta', sans-serif;
     text-transform: uppercase;
     font-size: 0.85em;
@@ -43,8 +43,8 @@ p {
 
 .btn-book:hover, .btn-book:focus, .btn-book:active, .btn-book.active, .open>.dropdown-toggle.btn-book {
     color: #f8123c;
-    background-color: #8f001a;
-    border-color: #8f001a; /*set the color you want here*/
+    background-color: #660012;
+    border-color: #660012; /*set the color you want here*/
 }
 
 
