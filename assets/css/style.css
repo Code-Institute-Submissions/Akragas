@@ -30,6 +30,8 @@ p {
     color: #505050;
 }
 
+/* Buttons */
+
 .btn-book {
     color: #b3122f;
     background-color: #660012;
@@ -75,6 +77,11 @@ header {
 
 .bg-light {
     background-color: #f7eaec!important;
+}
+
+.hvr-sweep-to-bottom:active, .hvr-sweep-to-bottom:focus, .hvr-sweep-to-bottom:hover {
+    color: #fff;
+    background-color: ##AD9C9F!important;
 }
 
 

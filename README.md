@@ -126,5 +126,12 @@ Hover css
 <https://ianlunn.github.io/Hover/#effects>
 
 
+#### Content and Images
+
+History
+<https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
+
+Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
+
 
 
