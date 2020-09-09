@@ -95,9 +95,10 @@ header {
     min-height: 420px;
 }
 
-@media only screen and (max-width: 600px)
-
-.hero-image  {
+@media only screen and (max-width: 1000px) {
+.hero-image {
+    background-position: fixed;
+}
 }
 
 /* Quote Box */
@@ -110,15 +111,12 @@ header {
     }
 
 .quote-box-hero {
-    background-color: #660012;
-    color: #f8123c;
+    background-color: rgba(32, 0, 5, 0.5);
+    color: rgba(255, 255, 255, 0.904);
     padding: 7%;
     z-index: 1;
     margin-bottom: 45%;
-    margin-left: 15%;
-    transition: all 2s ease-in-out;
-    -moz-transition: all 2s ease-in-out;
-    -webkit-transition: all 2s ease-in-out;
+    margin-left: 15%;;
     }
 
 @media only screen and (max-width: 1000px) {
