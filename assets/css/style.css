@@ -109,6 +109,22 @@ header {
     z-index: 1;
     }
 
+.quote-box-hero {
+    background-color: #660012;
+    color: #f8123c;
+    padding: 7%;
+    z-index: 1;
+    margin-bottom: 45%;
+    margin-left: 15%;
+    }
+
+@media only screen and (max-width: 1000px) {
+.quote-box-hero {
+    margin-bottom: 25%;
+    margin-left: 0%;
+    }
+}
+
 .quote-name {
     text-align: right;
 }
