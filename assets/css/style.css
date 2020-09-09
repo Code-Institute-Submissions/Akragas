@@ -34,6 +34,10 @@ p {
     color: #505050;
 }
 
+.white {
+    color: #fff;
+}
+
 /* Buttons */
 
 .btn-book {
@@ -97,7 +101,11 @@ header {
 
 @media only screen and (max-width: 1000px) {
 .hero-image {
+}
+}
 
+@media only screen and (max-width: 600px) {
+.hero-image {
 
 }
 }
