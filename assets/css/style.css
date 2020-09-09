@@ -148,10 +148,18 @@ header {
 
 .about {
     background-color: #efefef;
-    height: 100vh;
+
 }
 
 .about-title {
+    margin-top: 1em;
+    margin-bottom: 1.25em;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.about-body-text {
     margin-top: 0.5em;
     margin-bottom: 0.75em;
     padding-top: 10px;
