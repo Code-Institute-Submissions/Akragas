@@ -4,6 +4,10 @@
     display: inline-block;
 }
 
+.flex-container {
+  display: flex;
+}
+
 /* Fonts */
 
 h1, h2, h3, h4, h5, h6 {
@@ -103,7 +107,7 @@ header {
     color: #f8123c;
     padding: 7%;
     z-index: 1;
-}
+    }
 
 .quote-name {
     text-align: right;
