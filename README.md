@@ -120,16 +120,18 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 #### Additional Code Used
 
 Slider Comparion
-<https://www.w3schools.com/howto/howto_js_image_comparison.asp>
+- <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 
 Hover css
-<https://ianlunn.github.io/Hover/#effects>
+- <https://ianlunn.github.io/Hover/#effects>
 
 
 #### Content and Images
 
 History
-<https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
+- <https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
+- <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
+- <https://www.ancient.eu/agrigento/>
 
 Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
