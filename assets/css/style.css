@@ -80,7 +80,6 @@ header {
 }
 
 
-
 /* Home */
 
 .hero-image {
@@ -95,6 +94,19 @@ header {
 @media only screen and (max-width: 600px)
 
 .hero-image  {
+}
+
+/* Quote Box */
+
+.quote-box {
+    background-color: #660012;
+    color: #f8123c;
+    padding: 7%;
+    z-index: 1;
+}
+
+.quote-name {
+    text-align: right;
 }
 
 /* About */
