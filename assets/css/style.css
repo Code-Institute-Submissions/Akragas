@@ -64,25 +64,21 @@ header {
 }
 
 .navbar-brand h1 {
-    color: #AD9C9F;
+    color: #660012;
 }
 
 .nav-item a {
-    color: #AD9C9F;
+    color: #660012;
 }
 
 .menu {
-     background-color: #f7eaec;
+     background-color: #efefef;
 }
 
 .bg-light {
-    background-color: #f7eaec!important;
+    background-color: #efefef!important;
 }
 
-.hvr-sweep-to-bottom:active, .hvr-sweep-to-bottom:focus, .hvr-sweep-to-bottom:hover {
-    color: #fff;
-    background-color: ##AD9C9F!important;
-}
 
 
 /* Home */
