@@ -132,8 +132,9 @@ History
 - <https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
 - <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
 - <https://www.ancient.eu/agrigento/>
-
-Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
+- <https://www.parcovalledeitempli.it/en/>
+- >https://www.wikiwand.com/en/Valle_dei_Templi>
+- Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
 
 
