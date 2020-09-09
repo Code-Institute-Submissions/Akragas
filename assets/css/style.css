@@ -109,6 +109,11 @@ header {
     text-align: right;
 }
 
+.quote-subline {
+    text-align: right;
+}
+
+
 /* About */
 
 .about {
@@ -117,6 +122,8 @@ header {
 }
 
 .about-title {
+    margin-top: 0.5em;
+    margin-bottom: 0.75em;
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
