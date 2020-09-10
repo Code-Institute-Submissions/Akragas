@@ -214,7 +214,7 @@ header {
 
 .temple-segments {
      background-color: rgba(254, 254, 254, 0.3);
-     padding-top: 50px;
+     padding-top: 38px;
      padding-bottom: 18px;
      padding-left: 8px;
      padding-right: 8px;
@@ -233,6 +233,15 @@ header {
 .temple-text {
     padding-bottom: 14px;
 }
+
+.temple-text-bg {
+    background: url("/assets/images/pilars.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    opacity: 0.9;
+    }
 
 .temple-title {
     padding-top: 8px;

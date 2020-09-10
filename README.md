@@ -136,6 +136,7 @@ History
 - <https://www.wikiwand.com/en/Valle_dei_Templi>
 - <https://www.petersommer.com/blog/archaeology-history/goethe-in-sicily#:~:text=The%20%22Temple%20of%20Concordia%22%20at,preserved%20examples%20of%20its%20kind.>
 - <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
+- <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg>
 - Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
 
