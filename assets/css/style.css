@@ -77,7 +77,7 @@ p.intro {
 .btn-book:hover, .btn-book:focus, .btn-book:active, .btn-book.active, .open>.dropdown-toggle.btn-book {
     color: #f8123c;
     background-color: #660012;
-    border-color: #660012; /*set the color you want here*/
+    border-color: #660012; 
 }
 
 
@@ -246,6 +246,7 @@ header {
     min-height: 400px;
     opacity: 0.9;
     }
+
 
 .temple-title {
     padding-top: 8px;
