@@ -155,8 +155,8 @@ header {
 }
 
 .about-title {
-    margin-top: 1em;
-    margin-bottom: 1.25em;
+    margin-top: 2.5em;
+    margin-bottom: 2em;
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
@@ -179,7 +179,6 @@ header {
 
 .temples {
     background-color: #AD9C9F;
-    height: 60vh;
 }
 
 /* Gallery */

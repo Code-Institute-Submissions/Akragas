@@ -133,7 +133,8 @@ History
 - <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
 - <https://www.ancient.eu/agrigento/>
 - <https://www.parcovalledeitempli.it/en/>
-- >https://www.wikiwand.com/en/Valle_dei_Templi>
+- <https://www.wikiwand.com/en/Valle_dei_Templi>
+- <https://www.petersommer.com/blog/archaeology-history/goethe-in-sicily#:~:text=The%20%22Temple%20of%20Concordia%22%20at,preserved%20examples%20of%20its%20kind.>
 - Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
 
