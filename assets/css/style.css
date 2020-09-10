@@ -190,12 +190,30 @@ header {
     background-color: #AD9C9F;
 }
 
-.temple-title {
+.temple-segments {
+     background-color: rgba(254, 254, 254, 0.3);
+     padding-top: 16px;
+     padding-bottom: 18px;
 
 }
 
+.temple-title-section {
+    padding-top: 10px;
+}
+
 .temple-text {
-    
+    padding-top: 8px;
+    padding-bottom: 14px;
+
+}
+
+.temple-title-col {
+    padding-top: 8px;
+}
+
+.temple-text-col {
+    padding-top: 8px;
+    padding-bottom: 10px;
 }
 
 /* Gallery */
