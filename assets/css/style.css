@@ -196,7 +196,7 @@ header {
 
 .temple-segments {
      background-color: rgba(254, 254, 254, 0.3);
-     padding-top: 16px;
+     padding-top: 24px;
      padding-bottom: 18px;
      padding-left: 8px;
      padding-right: 8px;
@@ -205,6 +205,11 @@ header {
 
 .temple-title-section {
     padding-top: 10px;
+}
+
+.temple-intro-title {
+    padding-top: 24px;
+
 }
 
 .temple-text {
