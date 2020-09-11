@@ -339,6 +339,29 @@ button, input, optgroup, select, textarea {
     padding-top: 0.25em;
 }
 
+.fa-instagram {
+    font-size: 4.25em;
+    padding: 0 10px 0 10px;
+}
+
+.fa-tripadvisor {
+    font-size: 4.25em;
+    padding: 0 10px 0 10px;
+
+}
+
+.fa-youtube {
+    font-size: 4.25em;
+    padding: 0 10px 0 10px;
+
+}
+
+.fa-twitter {
+    font-size: 4.25em;
+    padding: 0 10px 0 10px;
+
+}
+
 
 /* Footer */
 
