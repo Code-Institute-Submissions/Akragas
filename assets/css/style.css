@@ -267,16 +267,15 @@ header {
 /* Visit */
 
 .visit {
-    background-color: #fefefe;
-    height: 60vh;
+    background-color: #fefefe;}
 }
 
-/* Contact */
+    /* Contact */
 
-.contact {
+.contact2 {
     color: #6B682A; 
     background-color: #0A4B66;
-    height: 60vh;
+    height: 100vh;
     }
 
 /* Footer */
