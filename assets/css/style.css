@@ -309,6 +309,10 @@ header {
 .visit-text {
 }
 
+.visit-box {
+    margin: 10px;
+}
+
 .map-box {
     margin-right: 0px;
     margin-left: 0px;
