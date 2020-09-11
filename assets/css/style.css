@@ -265,7 +265,6 @@ header {
     opacity: 0.9;
     }
 
-
 .temple-title {
     padding-top: 8px;
     color:#660012;
@@ -273,6 +272,9 @@ header {
 
 .temple-text-col {
     padding-bottom: 10px;
+}
+.temple-column {
+    margin: 20px 5px 20px 5px;
 }
 
 /* Gallery */
