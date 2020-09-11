@@ -304,6 +304,10 @@ header {
     background-color: #fefefe;
 }
 
+.visit-text {
+    padding: 0 10px 0 10px;
+}
+
 .map-box {
     margin-right: 0px;
     margin-left: 0px;
@@ -321,6 +325,11 @@ header {
     min-height: 400px;
     opacity: 1;
     }
+
+.contact-text {
+    padding: 0 10px 0 10px;
+}
+
 
 .form-box {
     padding: 24px 10px 10px 10px;
