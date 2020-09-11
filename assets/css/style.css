@@ -54,6 +54,10 @@ p.intro {
     color: #fff;
 }
 
+.blue {
+    color: #0A4B66;
+}
+
 .lt-blue {
     color: #73aecf;
 }
@@ -284,7 +288,7 @@ header {
 /* Footer */
 
 .footer {
-    height: 100px;
+    height: 160px;
     background-color: #660012;
 }
 
