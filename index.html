@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Optional JavaScript -->
-	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-	</script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-		integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
-	</script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-		integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
-	</script>
-    
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+	integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+	integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+	integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
+</script>
+
 
 <head>
 	<meta charset="UTF-8">
@@ -25,6 +25,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Lexend+Peta" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css"
 		type="text/css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css"
+		type="text/css" />
+	<link rel="stylesheet" href="assets/css/compact-gallery.css" type="text/css" />
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 	<title>Akrágas / Agrigento / The Valley of Temples</title>
 </head>
@@ -277,15 +280,96 @@
 
 	<!-- Gallery -->
 
-	<div class="container-fluid gallery">
-		<div class="div col align-items-center inline-block" id="gallery-link">
-			<div class="row">
-				<div class="col-md-6 ">
-					<h3 class="blue temple-intro-title">The Gallery</h3>
-				</div>
-			</div>
-		</div>
-	</div>
+    <section class="gallery-block compact-gallery">
+        <div class="container">
+            <div class="heading">
+                <h2>Compact Gallery</h2>
+            </div>
+            <div class="row no-gutters">
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image1.jpg">
+                        <img class="img-fluid image" src="/assets/images/image1.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image2.jpg">
+                        <img class="img-fluid image" src="/assets/images/image2.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image3.jpg">
+                        <img class="img-fluid image" src="/assets/images/image3.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image4.jpg">
+                        <img class="img-fluid image" src="/assets/images/image4.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                        </a>
+                    </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image5.jpg">
+                        <img class="img-fluid image" src="/assets/images/image5.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image6.jpg">
+                        <img class="img-fluid image" src="/assets/images/image6.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image7.jpg">
+                        <img class="img-fluid image" src="/assets/images/image7.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image8.jpg">
+                        <img class="img-fluid image" src="/assets/images/image8.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="col-md-6 col-lg-4 item zoom-on-hover">
+                    <a class="lightbox" href="/assets/images/image9.jpg">
+                        <img class="img-fluid image" src="/assets/images/image9.jpg">
+                        <span class="description">
+                            <span class="description-heading">Lorem Ipsum</span>
+                            <span class="description-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quam urna.Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
 
 	<!-- Visit -->
 
@@ -310,11 +394,11 @@
 				</div>
 			</div>
 		</div>
-        </div>
+	</div>
 
 	<!-- Contact -->
 
-    	<div class="container-fluid contact">
+	<div class="container-fluid contact">
 		<div class="div col align-items-center inline-block" id="contact-link">
 			<div class="row">
 				<div class="col-md-6 ">
@@ -343,6 +427,10 @@
 		</div>
 	</div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script>
+        baguetteBox.run('.compact-gallery', { animation: 'slideIn'});
+    </script>
 
 </body>
 

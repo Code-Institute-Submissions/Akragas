@@ -125,6 +125,9 @@ Slider Comparion
 Hover css
 - <https://ianlunn.github.io/Hover/#effects>
 
+Gallery Template 
+- <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
+
 
 #### Content and Images
 
