@@ -314,6 +314,12 @@ header {
 .contact {
     color: #efefef; 
     background-color: #0A4B66;
+    background: url("/assets/images/night-zeus.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    opacity: 1;
     }
 
 .form-box {
