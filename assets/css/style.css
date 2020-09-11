@@ -164,7 +164,7 @@ header {
     margin-bottom: 40px;
     }
 
-    .quote-box-flush {
+.quote-box-flush {
     background-color: rgba(58, 0, 5, 0.8);
     color: rgba(248, 18, 60, 1);
     padding: 7%;
@@ -284,7 +284,7 @@ header {
 }
 
 .gallery-block {
-    padding-bottom: 16px;
+    padding-bottom: 0px;
     padding-top: 0px;
 }
 .gallery-block .heading {
@@ -382,6 +382,14 @@ button, input, optgroup, select, textarea {
     .icon-row {
     margin: 10px;
 }
+}
+
+.icon-row a {
+    color: #fff;
+}
+
+.icon-row a:hover {
+    color: #f8123c;
 }
 
 .fa-resize {
