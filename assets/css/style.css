@@ -18,6 +18,16 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 
+a {
+    color: #660012;
+ }
+
+
+a:hover {
+    color: #f8123c;
+ }
+
+
 .title {
     text-align: center;
 }
