@@ -269,8 +269,24 @@ header {
 
 .gallery {
     background-color: #73aecf;
-    height: 60vh;
 }
+
+.gallery-block {
+    padding-bottom: 16px;
+    padding-top: 0px;
+}
+.gallery-block .heading {
+    margin-bottom: 24px;
+}
+
+.gallery-block.compact-gallery .item .description .description-heading {
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: .9em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
 
 /* Visit */
 
