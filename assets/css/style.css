@@ -362,15 +362,26 @@ button, input, optgroup, select, textarea {
     padding-top: 0.25em;
 }
 
-.fa-resize {
-    font-size: 4.25em;
-    padding: 0 10px 0 10px;
+.icon-row {
+    margin: 30px;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 700px) {
+    .icon-row {
+    margin: 10px;
+}
+}
+
+
+.fa-resize {
+    font-size: 4.25em;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 900px) {
 .fa-resize {
     font-size: 3em;
-    padding: 0 6px 0 6px;
+    padding: 6px;
 }
 }
 
