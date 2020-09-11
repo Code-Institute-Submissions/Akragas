@@ -294,12 +294,51 @@ header {
     background-color: #fefefe;
 }
 
-    /* Contact */
+.map-box {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+/* Contact */
 
 .contact {
     color: #efefef; 
     background-color: #0A4B66;
     }
+
+.form-box {
+    padding: 24px 10px 10px 10px;
+}
+
+.form-control {
+    border-radius: 0.33rem;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 5px;
+}
+
+.form-check-label {
+    font-size: .85em;
+    color: #73aecf;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.2em;
+    text-align: left;
+    padding-left: 6px;
+}
+
+.form-check-input {
+    position: absolute;
+    margin-top: 0.3rem;
+    margin-left: -1rem;
+}
+
+.form-check {
+    padding-left: 3rem;
+    padding-top: 0.25em;
+}
+
 
 /* Footer */
 
