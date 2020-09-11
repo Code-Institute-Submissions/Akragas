@@ -312,6 +312,16 @@ header {
     margin-left: 0px;
 }
 
+.button-box {
+    margin: 24px;
+}
+
+@media only screen and (max-width: 767px) {
+.map-box {
+    margin: 0px 0px 24px;
+}
+}
+
 /* Contact */
 
 .contact {
@@ -371,7 +381,6 @@ button, input, optgroup, select, textarea {
     margin: 10px;
 }
 }
-
 
 .fa-resize {
     font-size: 4.25em;
