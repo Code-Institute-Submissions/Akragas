@@ -215,10 +215,15 @@ header {
     margin-left: 15%;;
     }
 
+.quote-box-hero .h3 {
+    font-size-adjust: 1.25;
+    }
+
 @media only screen and (max-width: 1000px) {
 .quote-box-hero {
     margin-bottom: 25%;
     margin-left: 0%;
+    font-size-adjust: .7;
     }
 }
 
