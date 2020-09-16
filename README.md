@@ -57,7 +57,7 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 ## Features
 
-- ### Header Section - allows user to see site identity and concept via logo
+- ### Header Section - allows user to see site identity and concept via iconography. (Will hide icon on mobiles)
     
 - ### Navigation Section - allows user to navigate to different sections / features
 
@@ -75,7 +75,7 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - ### Contact Section - allows users to send message and/or visit social media accounts
 
-- ### Footer Section - a secondary  navigation section and links to associated websites like UNESCO
+- ### Footer Section - a secondary navigation section. (may look at adding links to associated websites like UNESCO)
 
 - ### Responsivity - Responsive across devices
 
@@ -92,12 +92,6 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 ***
 
 ## Credits
-
-### Content
-
-#### Text
-
-### Images
 
 #### README
 
@@ -129,9 +123,8 @@ Gallery Template
 - <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
 
 
-#### Content and Images
+#### Content, Text and Images
 
-History
 - <https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
 - <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
 - <https://www.ancient.eu/agrigento/>
