@@ -41,8 +41,9 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - ### Design
     - #### Colours
-        - Shades of red & yellow to echo Sicilian identity (flag), but using duskier tones
-        - Light Blue & white accents emulating sky/clouds for contrast
+        - Shades of red to echo Sicilian identity (flag), but using duskier tones
+        - A complimentary light dusky blue to emulate sky and sea
+        - White and bright red for contrast and important sections (About) and well as UX (Buttons)
 
     - #### Typography
         - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
@@ -81,11 +82,18 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 ## Development history
 
-Midway point - 16/9
+### Midway point - 16/9 <br>
 I am quite pleased at how the website is shaping-up. 
 Creating the mock-up ahead of development was hugely helpful as it meant some of the vital critical thinking was done early in the process.
 I still had some hang-ups with logic around rows and cols and expect I will continue to sort that code a bit further.
 I was delighted at the ability to target and style elements and used the Developed Tools often to test first.
+<br>
+Some of the changes I made to the initial plan include the colour palette and header icon. 
+I felt the yellow, although indicative of the Sicilian flag, didn't sit as nicely in the design.
+I used colour palette resources on Adobe and Paletteon website to look at more harmonious palettes.
+I didn't pursue designing a header icon because I was happy at how the font awesome icon looked and knew I would repeat it throughout the site.
+As well I liked the Google font being used and fet that this was strong on it's own (for mobile devices)
+
 
 ## Technologies Used
 
