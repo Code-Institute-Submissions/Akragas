@@ -79,6 +79,14 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - ### Responsivity - Responsive across devices
 
+## Development history
+
+Midway point - 16/9
+I am quite pleased at how the website is shaping-up. 
+Creating the mock-up ahead of development was hugely helpful as it meant some of the vital critical thinking was done early in the process.
+I still had some hang-ups with logic around rows and cols and expect I will continue to sort that code a bit further.
+I was delighted at the ability to target and style elements and used the Developed Tools often to test first.
+
 ## Technologies Used
 
 ***
