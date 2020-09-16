@@ -221,11 +221,27 @@ header {
     margin-left: 15%;;
     }
 
-.quote-box-hero .h3 {
-    font-size-adjust: 1.25;
+h3.big-hero-text {
+    font-size: 2.75rem;
     }
 
-@media only screen and (max-width: 1000px) {
+h4.big-hero-name {
+    font-size: 2rem;
+    }
+
+@media only screen and (max-width: 540px) {
+h3.big-hero-text {
+    font-size: 1.75rem;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+h4.big-hero-name {
+    font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 740px) {
 .quote-box-hero {
     margin-bottom: 25%;
     margin-left: 0%;
