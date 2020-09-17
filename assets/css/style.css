@@ -321,6 +321,7 @@ h4.big-hero-name {
 
 .timeline {
     background-color: #660012;
+    min-height: 300px;
 
 }
 
@@ -341,7 +342,7 @@ h4.big-hero-name {
 
 .timeline-point-hoz {
     padding: 4em 2em 1em 2em;
-    position: relative;
+    position: absolute;
     color: #fff;
     border-left: 1px solid;
 }
