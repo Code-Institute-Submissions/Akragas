@@ -323,8 +323,10 @@ h4.big-hero-name {
 /*-------------------------------------------------------- Timeline */ 
 
 .timeline {
-    background-color: #660012;
+    background-color: #53000f;
     min-height: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 
@@ -337,7 +339,7 @@ h4.big-hero-name {
 }
 
 .timeline-title-small {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /*-------------------------------------------------------- Timeline Horizontal */ 
@@ -420,8 +422,10 @@ h4.big-hero-name {
 .timeline-point-right {
     padding: 4em 2em 1em 2em;
     position: relative;
-    color: #fff;
+    color: #b3122f;
     border-left: 1px solid;
+    margin-left: 16px;
+
 }
 
 .timeline-point-right:before {
@@ -456,8 +460,10 @@ h4.big-hero-name {
 .timeline-point-left {
     padding: 4em 2em 1em 2em;
     position: relative;
-    color: #fff;
+    color: #b3122f;
     border-left: 1px solid;
+    margin-left: 16px;
+
 }
 
 .timeline-point-left:before {
