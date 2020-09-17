@@ -138,6 +138,9 @@ Hover css
 Gallery Template 
 - <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
 
+HR line
+- <https://stackoverflow.com/questions/41411155/does-bootstrap-4-have-a-built-in-horizontal-divider>
+
 
 #### Content, Text and Images
 
