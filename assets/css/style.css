@@ -681,7 +681,7 @@ button, input, optgroup, select, textarea {
 }
 }
 
-@media only screen and (max-width: 900px) {
+/*@media only screen and (max-width: 900px) {
 .fa-resize {
     font-size: 3em;
     text-align: center;
@@ -689,13 +689,13 @@ button, input, optgroup, select, textarea {
 }
 }
 
-@media only screen and (max-width: 300px) {
+/*@media only screen and (max-width: 300px) {
 .fa-resize {
     font-size: 2.5em;
     text-align: center;
-    padding: 5px;
+    padding: 8px;
 }
-}
+}*/
 
 /*--------------------------------------------------------  Footer */
 
