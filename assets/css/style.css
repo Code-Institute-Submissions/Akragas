@@ -340,6 +340,7 @@ h4.big-hero-name {
 
 .timeline-title-small {
     text-decoration: none;
+    border-bottom: 1px solid;
 }
 
 /*-------------------------------------------------------- Timeline Horizontal */ 
@@ -681,7 +682,7 @@ button, input, optgroup, select, textarea {
 @media only screen and (max-width: 900px) {
 .fa-resize {
     font-size: 3em;
-    padding: 9px;
+    padding: 6px;
 }
 }
 
