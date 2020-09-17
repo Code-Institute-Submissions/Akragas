@@ -1,4 +1,4 @@
-/* General */
+/*--------------------------------------------------------  General */
 
 .inline-block {
     display: inline-block;
@@ -8,7 +8,7 @@
   display: flex;
 }
 
-/* Fonts */
+/*-------------------------------------------------------- Fonts */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lexend Peta', sans-serif;
@@ -87,7 +87,7 @@ p.intro {
 
 } */
 
-/* Buttons */
+/*--------------------------------------------------------  Buttons */
 
 .btn-book {
     color: #fff;
@@ -105,7 +105,7 @@ p.intro {
 }
 
 
-/* Logo */
+/*--------------------------------------------------------  Logo */
 
 .logo {    
     border: 1px solid grey;
@@ -113,7 +113,7 @@ p.intro {
 }
 
 
-/* Menu */
+/*--------------------------------------------------------  Menu */
 
 
 header {
@@ -171,7 +171,7 @@ header {
     border-color: rgba(102, 10, 18, .9);
 }
 
-/* Home */
+/*--------------------------------------------------------  Home */
 
 .hero-image {
     background: url("/assets/images/akragas-panorama.jpg");
@@ -193,7 +193,7 @@ header {
 }
 }
 
-/* Quote Box */
+/*-------------------------------------------------------- Quote Box */
 
 .quote-box {
     background-color: rgba(58, 0, 5, 0.8);
@@ -258,7 +258,7 @@ h4.big-hero-name {
 }
 
 
-/* About */
+/*-------------------------------------------------------- About */
 
 .about {
     background-color: #efefef;
@@ -293,7 +293,24 @@ h4.big-hero-name {
     padding: 10px;
 }
 
-/* Temples */ 
+/*-------------------------------------------------------- Temples */ 
+
+.timeline {
+    background-color: #660012;
+
+}
+
+.timeline-title {
+    color:#efefef;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.25px;
+    font-size: 22px;
+    padding: 20px 0px 10px;
+
+}
+
+/*-------------------------------------------------------- Temples */ 
 
 .temples {
     background-color: #AD9C9F;
@@ -338,7 +355,7 @@ h4.big-hero-name {
     margin: 20px 5px 20px 5px;
 }
 
-/* Gallery */
+/*--------------------------------------------------------  Gallery */
 
 .gallery {
     background-color: #73aecf;
@@ -361,7 +378,7 @@ h4.big-hero-name {
 }
 
 
-/* Visit */
+/*--------------------------------------------------------  Visit */
 
 .visit {
     background-color: #fefefe;
@@ -389,7 +406,7 @@ h4.big-hero-name {
 }
 }
 
-/* Contact */
+/*--------------------------------------------------------  Contact */
 
 .contact {
     color: #efefef; 
@@ -470,7 +487,7 @@ button, input, optgroup, select, textarea {
 }
 }
 
-/* Footer */
+/*--------------------------------------------------------  Footer */
 
 .footer {
     height: 160px;
