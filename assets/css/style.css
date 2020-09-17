@@ -336,6 +336,48 @@ h4.big-hero-name {
     text-decoration: underline;
 }
 
+/*-------------------------------------------------------- Timeline Horizontal */ 
+
+
+.timeline-point-hoz {
+    padding: 4em 2em 1em 2em;
+    position: relative;
+    color: #fff;
+    border-left: 1px solid;
+}
+
+.timeline-point-hoz:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 1.9em;
+    top: 2em;
+    display: block;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 1.1em;
+    padding: 0;
+    margin:0;
+}
+
+.timeline-point-hoz:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #fafafa;
+}
+
+.date-info-hoz {
+    font-size: 18px;
+}
+
+/*-------------------------------------------------------- Timeline Vertical */ 
+
+
 .timeline-point-right {
     padding: 4em 2em 1em 2em;
     position: relative;
