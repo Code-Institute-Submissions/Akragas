@@ -201,7 +201,7 @@ header {
 /*--------------------------------------------------------  Home */
 
 .hero-image {
-    background: url("/assets/images/akragas-panorama.jpg");
+    background: url("https://charliekranz.github.io/Akragas/assets/images/akragas-panorama.jpg");
     background-position: center;
     height: 100%;
     background-repeat: no-repeat;
@@ -312,7 +312,7 @@ h4.big-hero-name {
 }
 
 .about-image-bg {
-     background: url("/assets/images/1024px-Akragas_406_a.C..jpg");
+     background: url("https://charliekranz.github.io/Akragas/assets/images/1024px-Akragas_406_a.C..jpg");
      padding-top: 5px;
      }
 
@@ -526,7 +526,7 @@ h4.big-hero-name {
 }
 
 .temple-text-bg {
-    background: url("/assets/images/pilars.png");
+    background: url("https://charliekranz.github.io/Akragas/assets/images/pilars.png");
     background-position: center;
     background-repeat: no-repeat;
     /*background-size: cover;*/
@@ -602,7 +602,7 @@ h4.big-hero-name {
 .contact {
     color: #efefef; 
     background-color: #0A4B66;
-    background: url("/assets/images/night-zeus.jpg");
+    background: url("https://charliekranz.github.io/Akragas/assets/images/night-zeus.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
