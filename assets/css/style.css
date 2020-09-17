@@ -8,6 +8,49 @@
   display: flex;
 }
 
+hr {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(179, 18, 48, 0.74);
+}
+
+/*-------------------------------------------------------- Colours */
+
+.red {
+    color: #660012;
+}
+
+
+.grey {
+    color: #505050;
+}
+
+.white {
+    color: #fff;
+}
+
+.blue {
+    color: #0A4B66;
+}
+
+.lt-blue {
+    color: #73aecf;
+}
+
+.lt-grey {
+    color: #efefef;
+}
+
+.bright-red {
+    color: #f8123c;
+}
+
+.mid-red {
+    color:#b3122f;
+}
+
+
 /*-------------------------------------------------------- Fonts */
 
 h1, h2, h3, h4, h5, h6 {
@@ -58,25 +101,6 @@ p.intro {
 
 }
 
-.red {
-    color: #660012;
-}
-
-.grey {
-    color: #505050;
-}
-
-.white {
-    color: #fff;
-}
-
-.blue {
-    color: #0A4B66;
-}
-
-.lt-blue {
-    color: #73aecf;
-}
 
 /* @media only screen and (max-width: 1100px) {
 
@@ -293,7 +317,7 @@ h4.big-hero-name {
     padding: 10px;
 }
 
-/*-------------------------------------------------------- Temples */ 
+/*-------------------------------------------------------- Timeline */ 
 
 .timeline {
     background-color: #660012;
@@ -301,13 +325,11 @@ h4.big-hero-name {
 }
 
 .timeline-title {
-    color:#efefef;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1.25px;
     font-size: 22px;
     padding: 20px 0px 10px;
-
 }
 
 /*-------------------------------------------------------- Temples */ 
