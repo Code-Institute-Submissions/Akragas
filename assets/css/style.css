@@ -227,7 +227,6 @@ header {
 @media only screen and (max-width: 1000px) {
 .hero-image {
     background-position-x: -38rem;
-
 }
 }
 
@@ -309,6 +308,18 @@ h4.big-hero-name {
     font-size: 2rem;
     }
 
+ @media only screen and (max-width: 768px) {
+h3.big-hero-text {
+    font-size: 2rem;
+    }
+    }
+
+@media only screen and (max-width: 540px) {
+h3.big-hero-text {
+    font-size: 1.6rem;
+    }
+    }
+
 @media only screen and (max-width: 540px) {
 h3.quote-text {
     font-size: 1.5rem;
@@ -327,13 +338,13 @@ h5.quote-subline {
     }
     }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 420px) {
 h3.big-hero-text {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     }
 }
 
-@media only screen and (max-width: 540px) {
+@media only screen and (max-width: 420px) {
 h4.big-hero-name {
     font-size: 1.25rem;
     }
