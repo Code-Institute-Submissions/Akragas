@@ -3,15 +3,8 @@
 
 <!----------------------------------------------------------------  Optional JavaScript -->
 <!----------------------------------------------------------------  jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-	integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
-</script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-	integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
-</script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-	integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
-</script>
+
+
 
 
 <head>
@@ -33,7 +26,6 @@
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css" />
 	<title>Akrágas / Agrigento / The Valley of Temples</title>
 </head>
-
 <body>
 	<section class="container-fluid menu">
 		<!----------------------------------------------------------------  Logo and Nav -->
@@ -41,11 +33,12 @@
 			<nav class="navbar navbar-expand-md navbar-light bg-light">
 				<a class="navbar-brand" href="index.html">
 					<h2 class="site-title"><i class="fa fa-university d-none d-sm-inline" aria-hidden="true"></i>
-						Akrágas</h2>
+						Akrágas
+                    </h2>
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" >
-    <span class="navbar-toggler-icon"></span>
-      </button>
+                    <span class="navbar-toggler-icon"></span>
+                </button>
 				<div class="collapse navbar-collapse" id="collapsibleNavbar">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item">
@@ -110,8 +103,7 @@
 						<p class="intro">
 							The ancient city of Akrágas was a Greek Colony founded on Sicily’s southwestern coast over
 							2600 years ago. Originally named for a nearby river by colonists from Gela, Crete and
-							Rhodes, it
-							is known today as Agrigento and the former site is referred to as “Valle dei Templi”
+							Rhodes, it is known today as Agrigento and the former site is referred to as “Valle dei Templi”
 							<em>(Italian)</em>, "Vaddi di li Tempri" <em>(Sicilian)</em> or “The Valley of the Temples” — a
 							slight misrepresentation considering it’s positioned on a plateau and ridge across two
 							hills.
@@ -119,12 +111,10 @@
 						<p>
 							Akrágas was an important center of Greek civilisation and even referred to by Virgil in his
 							classic work, <em>Aeneid</em>. Ruled by a series of tyrants, Akrágas reached great political
-							power in
-							480 BCE with the military defeat of Carthage at The Battle of Himera. This led to a period
-							of
-							construction of many of the city’s remarkable temples and a population boom of 200,000
+							power in 480 BCE with the military defeat of Carthage at The Battle of Himera. This led to a period
+							of construction of many of the city’s remarkable temples and a population boom of 200,000
 							people. The noted philosopher Empedocles wrote of his city’s residents, <em>"...they party as if
-						they will die tomorrow, and build as if they will live for ever."</em> But after 75 years the
+						    they will die tomorrow, and build as if they will live for ever."</em> But after 75 years the
 							building came to a stop. Carthage exacted its revenge on Akrágas, sacking and abandoning the
 							great city.
 						</p>
@@ -546,9 +536,20 @@
 		</div>
 	</div>
 
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+	    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+	    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+	    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
+    </script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
 	<script>
-		baguetteBox.run('.compact-gallery', { animation: 'slideIn'});
+        $( document ).ready(function() {
+            baguetteBox.run('.compact-gallery', { animation: 'slideIn'});
+        });
 	</script>
 
 </body>
