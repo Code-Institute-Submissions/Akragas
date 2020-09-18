@@ -320,6 +320,28 @@ h4.big-hero-name {
     padding: 10px;
 }
 
+.video-box {
+    width: 88%;
+    height: 88%;
+    position: relative;
+    margin: auto;
+    top: 42%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 540px) {
+.video-box {
+    width: 110%;
+    /* height: 100%; */
+    position: relative;
+    margin: auto;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+}
+
 /*-------------------------------------------------------- Timeline */ 
 
 .timeline {

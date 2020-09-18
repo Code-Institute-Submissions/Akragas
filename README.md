@@ -132,6 +132,12 @@ Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to
 #### Colours
 - <https://paletton.com/>
 
+#### Hints 
+I relied on Bootstrap Documentation, past Code Institute lessons and project code and W3 Schools threads for Hints
+Some examples:
+- Centering the embedded video <https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap/22433845>
+
+
 #### Additional Code Used
 
 Slider Comparion
