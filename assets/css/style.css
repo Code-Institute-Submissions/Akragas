@@ -677,6 +677,12 @@ h4.big-hero-name {
     background-color: #73aecf;
 }
 
+.intro-title-gallery {
+    padding-top: 1.5rem;
+    padding-bottom: 0.75rem;
+}
+
+
 .gallery-block {
     padding-bottom: 0px;
     padding-top: 0px;
