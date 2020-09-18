@@ -226,12 +226,50 @@ header {
 
 @media only screen and (max-width: 1000px) {
 .hero-image {
+    background-position-x: -38rem;
+
+}
+}
+
+@media only screen and (max-width: 800px) {
+.hero-image {
+    background-position-x: -27rem;
 }
 }
 
 @media only screen and (max-width: 600px) {
 .hero-image {
+    background-position-x: -17rem;
+}
+}
 
+@media only screen and (max-width: 480px) {
+.hero-image {
+    background-position-x: -26rem;
+}
+}
+
+@media only screen and (max-width: 411px) {
+.hero-image {
+    background-position-x: -31rem;
+}
+}
+
+@media only screen and (max-width: 375px) {
+.hero-image {
+    background-position-x: -30rem;
+}
+}
+
+@media only screen and (max-width: 360px) {
+.hero-image {
+    background-position-x: -26rem;
+}
+}
+
+@media only screen and (max-width: 300px) {
+.hero-image {
+    background-position-x: -32rem;
 }
 }
 
