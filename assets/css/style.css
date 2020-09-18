@@ -655,6 +655,9 @@ h4.big-hero-name {
 .contact-text {
 }
 
+.blue-overlay {
+    background-color: rgba(0, 17, 24, 0.4);
+}
 
 .form-box {
     padding: 24px 10px 10px 10px;
