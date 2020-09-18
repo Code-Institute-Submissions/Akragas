@@ -224,6 +224,21 @@ header {
     min-height: 420px;
 }
 
+@media only screen and (max-width: 778px) {
+.intro1 {
+    font-size: 1.5rem;
+}
+.intro2 {
+    font-size: 1.3rem;
+}
+}
+
+@media only screen and (max-width: 480px) {
+.intro1 {
+    font-size: 1.4rem;
+}
+}
+
 @media only screen and (max-width: 1000px) {
 .hero-image {
     background-position-x: -38rem;
