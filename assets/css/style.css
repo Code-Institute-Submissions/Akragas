@@ -319,11 +319,15 @@ h4.big-hero-name {
 }
 
 .about-body-text {
-    margin-top: 0.5em;
+    /*margin-top: 0.5em;
     margin-bottom: 0.75em;
     padding-top: 10px;
     padding-left: 10px;
-    padding-right: 10px;
+    padding-right: 10px;*/
+
+    margin-bottom: 0.75em;
+    padding-left: 1rem;
+    padding-right: 2rem;
 }
 
 .about-image-bg {
