@@ -97,7 +97,8 @@ As well I liked the Google font being used and fet that this was strong on it's 
 After speaking with Ignatius, who is mentoring me, I will focus on some restyling, using semantic code and clear annotation of code attribution.
 There are one or two features such as relocating the social icons on smaller devices and possible using captions on image gallery (when clicked).
 
-
+## Debugging
+Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active
 
 ## Technologies Used
 
