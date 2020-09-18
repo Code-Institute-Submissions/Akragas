@@ -98,7 +98,8 @@ After speaking with Ignatius, who is mentoring me, I will focus on some restylin
 There are one or two features such as relocating the social icons on smaller devices and possible using captions on image gallery (when clicked).
 
 ## Debugging
-- Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active
+- Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
+Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212
 - Surface Duo not seeming to conform to pixel size breakpoint of embed video box
 
 ## Technologies Used
