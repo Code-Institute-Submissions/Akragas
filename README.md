@@ -108,11 +108,11 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 This was deployed on GitHub Pages and can be viewed at: <a href="https://charliekranz.github.io/Akragas/" target="_blank">https://charliekranz.github.io/Akragas/</a>
 
 - ### Before my mid-point meeting with Ignatius, I deployed the website by:
-- #### Selecting the repository in GitHub account
-- #### Clicked on Settings 
-- #### In GitHub Pages section, selected Master Branch as source
-- #### Clicked Save 
-- #### Shared the url of the published site
+- Selecting the repository in GitHub account
+- Clicked on Settings 
+- In GitHub Pages section, selected Master Branch as source
+- Clicked Save 
+- Shared the url of the published site
 
 
 ***
