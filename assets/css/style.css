@@ -699,6 +699,14 @@ h4.big-hero-name {
     font-weight: 700;
 }
 
+.fancybox-caption__body {
+    font-size: 1.4em;
+    font-weight: bold;
+    line-height: 2em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    margin-bottom: 2em;
+}
 
 
 /*--------------------------------------------------------  Visit */
