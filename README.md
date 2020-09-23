@@ -157,13 +157,11 @@ Hover css
 
 Gallery Template 
 - <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
+- <http://fancyapps.com/fancybox/3/>
 
 HR line
 - <https://stackoverflow.com/questions/41411155/does-bootstrap-4-have-a-built-in-horizontal-divider>
 
-Potential Code - not sure I'll use
-- <https://codepen.io/NilsWe/pens/showcase>
-- <https://codepen.io/wdmg/pen/ZWmwNM>
 
 
 #### Content, Text and Images
