@@ -37,6 +37,7 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
         - Shades of red to echo Sicilian identity (flag), but using duskier tones
         - A complimentary light dusky blue to emulate sky and sea
         - White and bright red for contrast and important sections (About) and well as UX (Buttons)
+        - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red which expresses the vitality that this ancient site still holds to this day
 
     - #### Typography
         - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
@@ -92,7 +93,7 @@ There are one or two features such as relocating the social icons on smaller dev
 
 ## Debugging
 - Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
-Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212
+Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option.
 - Surface Duo not seeming to conform to pixel size breakpoint of embed video box
 
 ## Technologies Used
