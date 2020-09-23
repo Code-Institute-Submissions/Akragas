@@ -791,7 +791,11 @@ button, input, optgroup, select, textarea {
 }
 
 .icon-row {
-    margin: 30px;
+    margin: 10px;
+}
+
+.icon-row-small {
+    min-height: 5em;
 }
 
 @media only screen and (max-width: 700px) {
@@ -817,9 +821,19 @@ button, input, optgroup, select, textarea {
 
 @media only screen and (max-width: 1200px) {
 .fa-resize {
+    margin: 0px;
     font-size: 3.8em;
     text-align: center;
     padding: 18px;
+}
+}
+
+@media only screen and (max-width: 948px) {
+.fa-resize {
+    margin: 0px;
+    font-size: 3.4em;
+    text-align: center;
+    padding: 14px;
 }
 }
 
@@ -827,17 +841,17 @@ button, input, optgroup, select, textarea {
 .fa-resize {
     font-size: 3.2em;
     text-align: center;
-    padding: 6px;
+    padding: 12px;
 }
 }
 
-/*@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 320px) {
 .fa-resize {
-    font-size: 2.5em;
+    font-size: 2.2em;
     text-align: center;
     padding: 8px;
 }
-}*/
+}
 
 /*--------------------------------------------------------  Footer */
 
