@@ -1,14 +1,7 @@
 # <center>Akrágas Website</center>
-<hr>
-
-<a href="#" target="_blank">View live project here</a>
-
-## First Milestone Project for Code Institute Diploma in Fullstack Web Development
-
-***
 
 For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, has **astounded visitors**.<br>
-And yet many people are still unaware of its existence!
+And yet many people are still unaware of its existence.
 
 The Akrágas webite seeks to introduce Akrágas to a wider audience.
 Using evocative, representative images and video; interesting facts, quotes and historical context, as well a direct link to booking site - this website will connect people to the place <br>
@@ -111,6 +104,9 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 ***
 
 ## Deployment
+
+This was deployed on GitHub Pages. Can be viewed at: <a href="https://charliekranz.github.io/Akragas/" target="_blank">https://charliekranz.github.io/Akragas/</a>
+
 
 ***
 
