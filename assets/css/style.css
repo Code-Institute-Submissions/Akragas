@@ -724,10 +724,6 @@ h4.big-hero-name {
     background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.39));
 }
 
-.gallery-block.compact-gallery .item .description .description-heading{
-  font-size: 1em;
-  font-weight: bold;
-}
 
 .gallery-block.compact-gallery .item .description .description-body{
   font-size: 0.8em;
