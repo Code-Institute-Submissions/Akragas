@@ -74,6 +74,12 @@ a:hover {
     color: #f8123c;
  }
 
+.large-icon {
+    text-align: center;
+    color: #660012;
+    font-size: 2.5em;
+    margin-bottom: .25em;
+}
 
 .title {
     text-align: center;
@@ -395,6 +401,7 @@ h4.big-hero-name {
     margin-bottom: 2em;
     padding-left: 10px;
     padding-right: 10px;
+    text-align:center;
 }
 
 .about-intro-row {
