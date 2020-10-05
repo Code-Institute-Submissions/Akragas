@@ -441,6 +441,21 @@ h4.big-hero-name {
     transform: translate(-50%, -50%);
 }
 
+/*.video-frame {
+    margin-bottom: 10em;
+}
+
+
+.video-box {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin: auto;
+    top: 52%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+}*/
+
 @media only screen and (max-width: 540px) {
 .video-box {
     width: 110%;
