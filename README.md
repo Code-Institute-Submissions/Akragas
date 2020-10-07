@@ -93,8 +93,9 @@ There are one or two features such as relocating the social icons on smaller dev
 
 ## Debugging
 - Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
-Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option.
-- Surface Duo not seeming to conform to pixel size breakpoint of embed video box
+Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. Fixed by replacing with fancybox
+- Surface Duo not seeming to conform to pixel size breakpoint of embed video box - Fixed with CSS restyling
+- favico wasn't appearing. Got fic from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>
 
 ## Technologies Used
 
