@@ -277,7 +277,7 @@ header {
 
 @media only screen and (max-width: 375px) {
 .hero-image {
-    background-position-x: -30rem;
+    background-position-x: -33rem;
 }
 }
 
@@ -431,21 +431,6 @@ h4.big-hero-name {
 
 /*-------------------------------------------------------- Video Box */ 
 
-/*.video-box {
-    width: 88%;
-    height: 88%;
-    position: relative;
-    padding-bottom: 56.25%;
-}
-
-.video-frame {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 88%;
-    height: 88%;
-    border: 0;
-  }*/
 
 .container-fluid.video-box {
     padding-right: 0px;
@@ -477,7 +462,6 @@ h4.big-hero-name {
 
 }
 }
-
 
 /*-------------------------------------------------------- Timeline */ 
 
