@@ -1,18 +1,18 @@
 # <center>Akrágas Website</center>
 
 For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, has **astounded visitors**.<br>
-And yet many people are still unaware of its existence.
+-- And yet many people are still unaware of its existence.
 
 The Akrágas webite seeks to introduce Akrágas to a wider audience.
-Using evocative, representative images and video; interesting facts, quotes and historical context, as well a direct link to booking site - this website will connect people to the place <br>
+Using evocative, representative images and video; interesting facts, quotes and historical context, as well a direct link to booking site - this website will connect people to the place. <br>
 
-As someone with ties to the ancient city *(my grandafather and our ancestors are from the area)* I am passionate about sharing this remarkable location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy increased and ongoing interest from tourists, historians and adventure seekers alike.
+As someone with direct ties to the ancient city *(my grandafather and our ancestors are from the area)* I am passionate about sharing this remarkable location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy increased and ongoing interest from tourists, historians and adventure seekers alike.
 
 ***
 
 ## UX (User Experience)
 
-- ### User Stories
+### User Stories
 - #### First Time Visitor Goals
     1. As a First Time Visitor, I want to easily understand the content and subject matter of the website.
     2. As a First Time Visitor, I want to be able to easily navigate the site to see content and subject matter.
@@ -23,27 +23,28 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 
 - #### Returning Visitor Goals
-    1. As a Returning Time Visitor, I want to easily understand the content and subject matter of the website.
-    2. As a Returning Time Visitor, I want to have the ability to ask questions directly of the website owners.
-    3. As a Returning Time Visitor, I want to understand that the content matter stretches back thousands of years from the original city, Akrágas, to moderns-day Agrigento and The Valley of the Temples.
-    4. As a Returning Time Visitor, I want to discover other similar locations through footer links (Unesco).
+    1. As a Returning Visitor, I want to easily understand the content and subject matter of the website.
+    2. As a Returning Visitor, I want to have the ability to ask questions directly of the website owners.
+    3. As a Returning Visitor, I want to understand that the content matter stretches back thousands of years from the original city, Akrágas, to moderns-day Agrigento and The Valley of the Temples.
 
 - #### Frequent User Goals
-    1. As a Frequent User, I want to be able to refer others to the site.
-    2. As a Frequent User, I want to see if there are any updates regarding ongoing archaelogical investigations.
+    1. As a Frequent User, I want to be able to refer others to the website.
+    2. As a Frequent User, I want to have the ability to book a visit to the actual site.
 
-- ### Design
-    - #### Colours
-        - Shades of red to echo Sicilian identity (flag), but using duskier tones
-        - A complimentary light dusky blue to emulate sky and sea
-        - White and bright red for contrast and important sections (About) and well as UX (Buttons)
-        - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red which expresses the vitality that this ancient site still holds to this day
+## Design
+- ### Colours
+    - Shades of red to echo Sicilian identity (flag), but using duskier tones
+    - A complimentary light dusky blue to emulate sky and sea
+    - White and bright red for contrast and important sections (About) and well as UX (Buttons)
+    - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red which expresses the vitality that this ancient site still holds to this day
 
-    - #### Typography
-        - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
+- #### Typography
+    - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
+    - Lexend Peta has a strong, wide face which expresses the epic and wide feeling of this historical site
+    - Open Sans is clean and compact which works wekk for blocks of text and also compliments Lexend Peta quite well
 
-    - #### Imagery
-        - Imagery will be vitally important for conveying the scale and scope of this archaelogical site. Video will be further uesful in showing how Akgrágas was believed to look when the ancient coty was flourishing.
+- #### Imagery
+    - Imagery will be vitally important for conveying the scale and scope of this archaelogical site. Video will be further uesful in showing how Akgrágas was believed to look when the ancient city was flourishing.
 
 - #### Wireframes
     - Desktop Wireframe: [View](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
@@ -52,7 +53,7 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 ## Features
 
-- ### Header Section - allows user to see site identity and concept via iconography. (Will hide icon on mobiles)
+- ### Header Section - allows user to see site identity and concept via iconography.
 - ### Navigation Section - allows user to navigate to different sections / features
 - ### Hero-Home Section - captures user's attention and conveys subject matter using compelling images and quote
 - ### About Section - shows user the 3d model recreation video, conveys a summary of topic and includes another interesting quote
@@ -67,18 +68,18 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 ## Development history
 
 ### Midway point - 18/9 <br>
-I am quite pleased at how the website is shaping-up. 
+- I am quite pleased at how the website is shaping-up. 
 Creating the mock-up ahead of development was hugely helpful as it meant some of the vital critical thinking was done early in the process.
 I still had some hang-ups with logic around rows and cols and expect I will continue to sort that code a bit further.
 I was delighted at the ability to target and style elements and used the Developed Tools often to test first.
 <br>
-Some of the changes I made to the initial plan include the colour palette and header icon. 
+- Some of the changes I made to the initial plan include the colour palette and header icon. 
 I felt the yellow, although indicative of the Sicilian flag, didn't sit as nicely in the design.
 I used colour palette resources on Adobe and Paletteon website to look at more harmonious palettes.
 I didn't pursue designing a header icon because I was happy at how the font awesome icon looked and knew I would repeat it throughout the site.
 As well I liked the Google font being used and fet that this was strong on it's own (for mobile devices)
 <br>
-After speaking with Ignatius, who is mentoring me, I will focus on some restyling, using semantic code and clear annotation of code attribution.
+- After speaking with Ignatius, who is mentoring me, I will focus on some restyling, using semantic code and clear annotation of code attribution.
 There are one or two features such as relocating the social icons on smaller devices and possible using captions on image gallery (when clicked).
 
 ## Debugging
