@@ -14,23 +14,23 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 
 - ### User Stories
 - #### First Time Visitor Goals
-    - a. As a First Time Visitor, I want to easily understand the content and subject matter of the website.
-    - b. As a First Time Visitor, I want to be able to easily navigate the site to see content and subject matter.
-    - c. As a First Time Visitor, I want to see visual examples of the subject matter.
-    - d. As a First Time Visitor, I want to read interesting and pertinent quotes and facts which help explain why the subject matter is remarkable.
-    - e. As a First Time Visitor, I want to learn how I might be able to visit the place in person.
-    - d. As a First Time Visitor, I want to see Social Media links to see further (real-time) information and content.
+    1. As a First Time Visitor, I want to easily understand the content and subject matter of the website.
+    2. As a First Time Visitor, I want to be able to easily navigate the site to see content and subject matter.
+    3. As a First Time Visitor, I want to see visual examples of the subject matter.
+    4. As a First Time Visitor, I want to read interesting and pertinent quotes and facts which help explain why the subject matter is remarkable.
+    5. As a First Time Visitor, I want to learn how I might be able to visit the place in person.
+    6. As a First Time Visitor, I want to see Social Media links to see further (real-time) information and content.
 
 
 - #### Returning Visitor Goals
-    - a. As a Returning Time Visitor, I want to easily understand the content and subject matter of the website.
-    - b. As a Returning Time Visitor, I want to have the ability to ask questions directly of the website owners.
-    - c. As a Returning Time Visitor, I want to understand that the content matter stretches back thousands of years from the original city, Akrágas, to moderns-day Agrigento and The Valley of the Temples.
-    - d. As a Returning Time Visitor, I want to discover other similar locations through footer links (Unesco).
+    1. As a Returning Time Visitor, I want to easily understand the content and subject matter of the website.
+    2. As a Returning Time Visitor, I want to have the ability to ask questions directly of the website owners.
+    3. As a Returning Time Visitor, I want to understand that the content matter stretches back thousands of years from the original city, Akrágas, to moderns-day Agrigento and The Valley of the Temples.
+    4. As a Returning Time Visitor, I want to discover other similar locations through footer links (Unesco).
 
 - #### Frequent User Goals
-    - a. As a Frequent User, I want to be able to refer others to the site.
-    - b. As a Frequent User, I want to see if there are any updates regarding ongoing archaelogical investigations.
+    1. As a Frequent User, I want to be able to refer others to the site.
+    2. As a Frequent User, I want to see if there are any updates regarding ongoing archaelogical investigations.
 
 - ### Design
     - #### Colours
@@ -46,8 +46,8 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
         - Imagery will be vitally important for conveying the scale and scope of this archaelogical site. Video will be further uesful in showing how Akgrágas was believed to look when the ancient coty was flourishing.
 
 - #### Wireframes
-    - #### Desktop Wireframe [view](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
-    - #### Mobile Wireframe  [view](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Mobile-wireframe.pdf)<br>
+    - Desktop Wireframe: [View](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
+    - Mobile Wireframe:  [View](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Mobile-wireframe.pdf)<br>
 
 
 ## Features
@@ -85,7 +85,7 @@ There are one or two features such as relocating the social icons on smaller dev
 - Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
 Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. - *Fixed by replacing with fancybox*
 - Surface Duo not seeming to conform to pixel size breakpoint of embed video box - *Fixed with CSS restyling*
-- favico wasn't appearing. *Got fix from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>*
+- favico wasn't appearing. - *Got fix from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>*
 
 ## Technologies Used
 
@@ -94,18 +94,20 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 ## Testing
 
 - Have tested on:
-iOS iphone 5S
+    * iOS iphone: 5S, 6
+    * OSX: Chrome, Safari, Firefox, Opera
+    * Windows: 
 
 ## Deployment
 
 This was deployed on GitHub Pages and can be viewed at: <a href="https://charliekranz.github.io/Akragas/" target="_blank">https://charliekranz.github.io/Akragas/</a>
 
-- ### Before my mid-point meeting with Ignatius, I deployed the website by:
-- Selecting the repository in GitHub account
-- Clicked on Settings 
-- In GitHub Pages section, selected Master Branch as source
-- Clicked Save 
-- Shared the url of the published site
+* Before my mid-point meeting with Ignatius, I deployed the website by:
+    * Selecting the repository in GitHub account
+    * Clicked on Settings 
+    * In GitHub Pages section, selected Master Branch as source
+    * Clicked Save 
+    * Shared the url of the published site
 
 
 ***
