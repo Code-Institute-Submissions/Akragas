@@ -71,13 +71,12 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
 - I am quite pleased at how the website is shaping-up. 
 Creating the mock-up ahead of development was hugely helpful as it meant some of the vital critical thinking was done early in the process.
 I still had some hang-ups with logic around rows and cols and expect I will continue to sort that code a bit further.
-I was delighted at the ability to target and style elements and used the Developed Tools often to test first.
+I was delighted at the ability to target and style elements and used the Development Tools often to test first.
 <br>
 - Some of the changes I made to the initial plan include the colour palette and header icon. 
 I felt the yellow, although indicative of the Sicilian flag, didn't sit as nicely in the design.
 I used colour palette resources on Adobe and Paletteon website to look at more harmonious palettes.
 I didn't pursue designing a header icon because I was happy at how the font awesome icon looked and knew I would repeat it throughout the site.
-As well I liked the Google font being used and fet that this was strong on it's own (for mobile devices)
 <br>
 - After speaking with Ignatius, who is mentoring me, I will focus on some restyling, using semantic code and clear annotation of code attribution.
 There are one or two features such as relocating the social icons on smaller devices and possible using captions on image gallery (when clicked).
@@ -96,7 +95,7 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 
 - Have tested on:
     * iOS iphone: 5S, 6
-    * OSX: Chrome, Safari, Firefox, Opera
+    * OSX: Chrome, Safari, Firefox, Opera. Edge
     * Windows: 
 
 ## Deployment
