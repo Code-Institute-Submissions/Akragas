@@ -53,25 +53,15 @@ As someone with ties to the ancient city *(my grandafather and our ancestors are
 ## Features
 
 - ### Header Section - allows user to see site identity and concept via iconography. (Will hide icon on mobiles)
-    
 - ### Navigation Section - allows user to navigate to different sections / features
-
 - ### Hero-Home Section - captures user's attention and conveys subject matter using compelling images and quote
-
 - ### About Section - shows user the 3d model recreation video, conveys a summary of topic and includes another interesting quote
-
 - ### Timeline Section - allows user to see an overview of important evenrs relating to topic
-
 - ### The Temples Section - allows users to see an overview of Temples and breakdown of each
-
 - ### Gallery Section - allows users to see a selection of images
-
 - ### Visit Section - allows user to see location on Google map and click-link to Booking website
-
 - ### Contact Section - allows users to send message and/or visit social media accounts
-
-- ### Footer Section - a secondary navigation section. (may look at adding links to associated websites like UNESCO)
-
+- ### Footer Section - a secondary navigation section. 
 - ### Responsivity - Responsive across devices
 
 ## Development history
@@ -93,9 +83,9 @@ There are one or two features such as relocating the social icons on smaller dev
 
 ## Debugging
 - Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
-Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. Fixed by replacing with fancybox
-- Surface Duo not seeming to conform to pixel size breakpoint of embed video box - Fixed with CSS restyling
-- favico wasn't appearing. Got fic from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>
+Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. - *Fixed by replacing with fancybox*
+- Surface Duo not seeming to conform to pixel size breakpoint of embed video box - *Fixed with CSS restyling*
+- favico wasn't appearing. *Got fix from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>*
 
 ## Technologies Used
 
@@ -103,7 +93,8 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 
 ## Testing
 
-***
+- Have tested on:
+iOS iphone 5S
 
 ## Deployment
 
