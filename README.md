@@ -43,7 +43,7 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
 - #### Typography
     - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
     - Lexend Peta has a strong, wide face which expresses the epic and wide feeling of this historical site
-    - Open Sans is clean and compact which works wekk for blocks of text and also compliments Lexend Peta quite well
+    - Open Sans is clean and compact which works well for blocks of text and also compliments Lexend Peta quite well
 
 - #### Imagery
     - Imagery will be vitally important for conveying the scale and scope of this archaelogical site. Video will be further uesful in showing how Akgrágas was believed to look when the ancient city was flourishing.
