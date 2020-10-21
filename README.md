@@ -99,6 +99,9 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
     * iOS iphone: 5S, 6
     * OSX: Chrome, Safari, Firefox, Opera. Edge
     * Windows: 
+    * https://color.a11y.com/Contrast/
+    * Validation 1
+    * Validation 2
 
 ## Deployment
 

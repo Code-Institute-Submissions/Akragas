@@ -479,12 +479,14 @@ h4.big-hero-name {
     letter-spacing: 1.25px;
     font-size: 22px;
     padding: 20px 0px 10px;
+    color: #dee2e6;
 }
 
 .timeline-title-small {
     text-decoration: none;
     border-bottom: 1px solid;
 }
+
 
 /*-------------------------------------------------------- Timeline Horizontal */ 
 
@@ -493,9 +495,10 @@ h4.big-hero-name {
     margin-top: 65px;
     padding: 1.4em 2em 1em 2em;
     position: relative;
-    color: #b3122f;
     border-top: 1px solid;
     text-align: center;
+    color: #c6babc;
+
 }
 
 .timeline-point-hoz:before {
@@ -569,16 +572,16 @@ h4.big-hero-name {
 /*-------------------------------------------------------- Timeline Vertical */ 
 
 
-.timeline-point-right {
+.timeline-point-vert {
     padding: 4em 2em 1em 2em;
     position: relative;
-    color: #b3122f;
+    color: #c6babc;
     border-left: 1px solid;
     margin-left: 16px;
 
 }
 
-.timeline-point-right:before {
+.timeline-point-vert:before {
     content: attr(data-dates);
     position: absolute;
     left: 1.9em;
@@ -591,7 +594,7 @@ h4.big-hero-name {
     margin:0;
 }
 
-.timeline-point-right:after {
+.timeline-point-vert:after {
     width: 12px;
     height: 12px;
     display: block;
@@ -603,45 +606,7 @@ h4.big-hero-name {
     background: #fafafa;
 }
 
-.date-info-vert-right {
-    font-size: 18px;
-}
-
-.timeline-point-left {
-    padding: 4em 2em 1em 2em;
-    position: relative;
-    color: #b3122f;
-    border-left: 1px solid;
-    margin-left: 16px;
-
-}
-
-.timeline-point-left:before {
-    content: attr(data-dates);
-    position: absolute;
-    left: 1.9em;
-    top: 2em;
-    display: block;
-    font-family: "Open Sans", sans-serif;
-    font-weight: 700;
-    font-size: 1.1em;
-    padding: 0;
-    margin:0;
-}
-
-.timeline-point-left:after {
-    width: 12px;
-    height: 12px;
-    display: block;
-    top: 2.4em;
-    position: absolute;
-    left: -6px;
-    border-radius: 12px;
-    content: '';
-    background: #fafafa;
-}
-
-.date-info-vert-left {
+.date-info-vert {
     font-size: 18px;
 }
 
