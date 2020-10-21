@@ -122,16 +122,6 @@ p.intro {
     color: #3b3b3b;
 }
 
-
-/* @media only screen and (max-width: 1100px) {
-
-   .temple-title-col h5 { 
-       font-size: 1.2em; 
-
-   }
-
-} */
-
 /*--------------------------------------------------------  Buttons */
 
 .btn-book {
@@ -195,7 +185,6 @@ header {
 
 .navbar-nav .nav-link {
     margin-left: 1px;
-    /*padding: 10px;*/
 }
 
 
@@ -408,12 +397,6 @@ h4.big-hero-name {
 }
 
 .about-body-text {
-    /*margin-top: 0.5em;
-    margin-bottom: 0.75em;
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;*/
-
     margin-bottom: 0.75em;
     padding-left: 1rem;
     padding-right: 2rem;
@@ -451,7 +434,6 @@ h4.big-hero-name {
 @media only screen and (max-width: 540px) {
 .video-box {
     width: 110%;
-    /* height: 100%; */
     position: relative;
     margin: auto;
     top: 42%;
@@ -638,7 +620,6 @@ h4.big-hero-name {
     background: url("https://charliekranz.github.io/Akragas/assets/images/pilars.png");
     background-position: center;
     background-repeat: no-repeat;
-    /*background-size: cover;*/
     min-height: 400px;
     opacity: 0.9;
     }

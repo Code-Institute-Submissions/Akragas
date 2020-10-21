@@ -99,8 +99,8 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
     * iOS iphone: 5S, 6
     * OSX: Chrome, Safari, Firefox, Opera. Edge
     * Windows: 
-    * https://color.a11y.com/Contrast/
-    * Validation 1
+    * https://color.a11y.com/Contrast/ - passed
+    * Vhttps://validator.w3.org/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
     * Validation 2
 
 ## Deployment
@@ -136,6 +136,9 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 
 #### Colours
 - <https://paletton.com/>
+
+#### Validation
+- Took advice from MS1 PREPARATION CALL pdf regarding Validation links
 
 #### Hints 
 I relied on Bootstrap Documentation, past Code Institute lessons and project code and W3 Schools threads for Hints
