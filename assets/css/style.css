@@ -929,7 +929,8 @@ button, input, optgroup, select, textarea {
 .footer-menu a {
     text-align: center;
     text-transform: uppercase;
-    color: #b3122f;
+    color: #c6babc;
+
 }
 
 .footer-menu a:hover {
@@ -943,5 +944,5 @@ button, input, optgroup, select, textarea {
     margin-top: 10px;
     text-align: center;
     text-transform: uppercase;
-    color: #b3122f;
+    color: #c6babc;
 }
