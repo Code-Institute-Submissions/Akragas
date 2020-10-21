@@ -100,8 +100,9 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
     * OSX: Chrome, Safari, Firefox, Opera. Edge
     * Windows: 
     * https://color.a11y.com/Contrast/ - passed
-    * Vhttps://validator.w3.org/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
-    * Validation 2
+    * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
+    * https://validator.w3.org/ - passed
+    * https://html5.validator.nu/ - passed
 
 ## Deployment
 
