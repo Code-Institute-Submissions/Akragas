@@ -35,18 +35,25 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
 
 ## Design
 - ### Colours
-    - Shades of red to echo Sicilian identity (flag), but using duskier tones
-    - A complimentary light dusky blue to emulate sky and sea
-    - White and bright red for contrast and important sections (About) and well as UX (Buttons)
-    - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red which expresses the vitality that this ancient site still holds to this day
+    - Shades of red to echo Sicilian identity (flag), but using duskier tones.
+    - A complimentary light dusky blue to emulate sky and sea.
+    - White and bright red for contrast and important sections (About) and well as UX (Buttons).
+    - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red which expresses the vitality that this ancient site still holds to this day.
+    - Although I quite liked the bright red on maroon treatment for the timeline, I knew that accessibility was more important and so used higher-contrast cobination of white/grey on maroon.
 
 - #### Typography
     - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
-    - Lexend Peta has a strong, wide face which expresses the epic and wide feeling of this historical site
-    - Open Sans is clean and compact which works well for blocks of text and also compliments Lexend Peta quite well
+    - Lexend Peta has a strong, wide face which expresses the epic and wide feeling of this historical site.
+    - Open Sans is clean and compact which works well for blocks of text and also compliments Lexend Peta quite well.
 
 - #### Imagery
-    - Imagery will be vitally important for conveying the scale and scope of this archaelogical site. Video will be further uesful in showing how Akgrágas was believed to look when the ancient city was flourishing.
+    - Imagery is vitally important for conveying the scale and scope of this archaelogical site. 
+    - I was fortunate to source an image close to what I envisioned for the hero image.
+    - I felt that by using additional images such as the coins and map I could convey archealogical and historical aspects of the site.
+
+- #### Video 
+    - Video is further useful in showing how Akgrágas was believed to look when the ancient city was flourishing.
+    - The 3D recreation video achieves so much in terms of communicating the ssize and scale of Akrágas at its height.
 
 - #### Wireframes
     - Desktop Wireframe: [View](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
@@ -55,31 +62,36 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
 
 ## Features
 
-- ### Header Section - allows user to see site identity and concept via iconography.
-- ### Navigation Section - allows user to navigate to different sections / features
-- ### Hero-Home Section - captures user's attention and conveys subject matter using compelling images and quote
-- ### About Section - shows user the 3d model recreation video, conveys a summary of topic and includes another interesting quote
-- ### Timeline Section - allows user to see an overview of important evenrs relating to topic
-- ### The Temples Section - allows users to see an overview of Temples and breakdown of each
-- ### Gallery Section - allows users to see a selection of images
-- ### Visit Section - allows user to see location on Google map and click-link to Booking website
-- ### Contact Section - allows users to send message and/or visit social media accounts
-- ### Footer Section - a secondary navigation section. 
-- ### Responsivity - Responsive across devices
+* Header Section - allows user to see site identity and concept via iconography
+* Navigation Section - allows user to navigate to different sections / features
+* Hero-Home Section - captures user's attention and conveys subject matter using compelling images and quote
+* About Section - shows user the 3d model recreation video, conveys a summary of topic and includes another interesting quote
+* Timeline Section - allows user to see an overview of important events relating to topic
+* The Temples Section - allows users to see an overview of Temples and breakdown of each
+* Gallery Section - allows users to see a selection of images
+* Contact Section - allows users to send message and/or visit social media accounts
+* Footer Section - a secondary navigation section. 
+* Responsivity - Responsive across devices
+
+### Potential Future Features
+
+* Past-to-Present Day Image Comparison - would allow users to move slider to compare what current ruins would have looked like in their original from, possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
+* UNESCO Information - would inform user of the international standing and signifigance of the archaelogical site
+* Latest News Section - recent news would also make the website more "sticky", encouraging return visits
 
 ## Development history
 
 ### Midway point - 18/9 <br>
 - I am quite pleased at how the website is shaping-up. 
-Creating the mock-up ahead of development was hugely helpful as it meant some of the vital critical thinking was done early in the process.
-I still had some hang-ups with logic around rows and cols and expect I will continue to sort that code a bit further.
-I was delighted at the ability to target and style elements and used the Development Tools often to test first.
-<br>
+    * Creating the mock-up ahead of development was hugely helpful as it meant some of the vital critical thinking was done early in the process.
+    * I still had some hang-ups with logic around rows and cols and expect I will continue to sort that code a bit further.
+    * I was delighted at the ability to target and style elements and used the Development Tools often to test first.
+
 - Some of the changes I made to the initial plan include the colour palette and header icon. 
-I felt the yellow, although indicative of the Sicilian flag, didn't sit as nicely in the design.
-I used colour palette resources on Adobe and Paletteon website to look at more harmonious palettes.
-I didn't pursue designing a header icon because I was happy at how the font awesome icon looked and knew I would repeat it throughout the site.
-<br>
+    * I felt the yellow, although indicative of the Sicilian flag, didn't sit as nicely in the design.
+    * I used colour palette resources on Adobe and Paletteon website to look at more harmonious palettes.
+    * I didn't pursue designing a header icon because I was happy at how the font awesome icon looked and knew I would repeat it throughout the site.
+
 - After speaking with Ignatius, who is mentoring me, I will focus on some restyling, using semantic code and clear annotation of code attribution.
 There are one or two features such as relocating the social icons on smaller devices and possible using captions on image gallery (when clicked).
 
@@ -91,7 +103,16 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 
 ## Technologies Used
 
-***
+* HTML and CSS programming languages
+* GitHub
+* GitPod
+* Bootstrap
+* fancybox
+* HoverCSS
+* YouTube
+* Google Fonts
+* Google Maps
+
 
 ## Testing
 
@@ -116,44 +137,60 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
     * Shared the url of the published site
 
 
-***
-
 ## Credits
 
-#### README
+### Content
+* Quotes are attributed to original authors 
+* All other text was adapted by Charlie Kranz from a variety of online and hardcopy resources:
+    - <https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
+    - <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
+    - <https://www.ancient.eu/agrigento/>
+    - <https://www.parcovalledeitempli.it/en/>
+    - <https://www.wikiwand.com/en/Valle_dei_Templi>
+    - <https://www.petersommer.com/blog/archaeology-history/goethe-in-sicily#:~:text=The%20%22Temple%20of%20Concordia%22%20at,preserved%20examples%20of%20its%20kind.>
+    - <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
+    - <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg>
+    - Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
+### Images
+* Hero image - Regione Siciliana Assessorato dei Beni culturali e dell'Identita' siciliana Facebook page <https://www.facebook.com/assessoratobci/photos/3097187053652008?>
+* Coins image - from Wild Winds website  <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
+* Akrágas etching -  by Toni Pecoraro 2014 <https://en.wikipedia.org/wiki/File:Akragas_406_a.C..jpg>
+* Dioscuri Pillars image - The Wandering Scot photo (retouched by Charlie Kranz) <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg> 
+* Nighttime Juno image in Contact Section - Rene Rauschenberger photo <https://pixabay.com/photos/temple-greek-sicily-agrigento-4570359/>
+* All Gallery images attributed to photographer
+
+### Video
+* 3D Recreation / Reconstruction by Altair4 Multimedia Archeo3D Production
+
+### Resources
+#### README
 - <https://github.com/Code-Institute-Solutions/readme-template/blob/master/README.md>
 - <https://www.markdownguide.org/basic-syntax/>
+- <https://github.com/AJGreaves/portrait-artist/blob/master/README.md>
 
 #### Bootstrap
-
 - <https://getbootstrap.com/docs/4.4/layout/grid/>
 - <https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background>
 - <https://hackerthemes.com/bootstrap-cheatsheet/>
 
 #### Google Fonts
-
 - <https://www.gyanblog.com/gyan/how-to-use-google-fonts-website-bootstrap/>
 
 #### Colours
 - <https://paletton.com/>
 
-#### Validation
+#### Validation Tips
 - Took advice from MS1 PREPARATION CALL pdf regarding Validation links
 
 #### Hints 
-I relied on Bootstrap Documentation, past Code Institute lessons and project code and W3 Schools threads for Hints
-Some examples:
-- Centering the embedded video <https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap/22433845>
-
+- I relied on Bootstrap Documentation, past Code Institute lessons and project code and W3 Schools threads for Hints
+- Some examples: Centering the embedded video <https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap/22433845>
 
 #### Additional Code Used
 
 Favicon
 - <https://favicon.io/favicon-converter/>
-
-Slider Comparion
-- <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 
 Hover css
 - <https://ianlunn.github.io/Hover/#effects>
@@ -165,19 +202,6 @@ Gallery Template
 HR line
 - <https://stackoverflow.com/questions/41411155/does-bootstrap-4-have-a-built-in-horizontal-divider>
 
-
-
-#### Content, Text and Images
-
-- <https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
-- <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
-- <https://www.ancient.eu/agrigento/>
-- <https://www.parcovalledeitempli.it/en/>
-- <https://www.wikiwand.com/en/Valle_dei_Templi>
-- <https://www.petersommer.com/blog/archaeology-history/goethe-in-sicily#:~:text=The%20%22Temple%20of%20Concordia%22%20at,preserved%20examples%20of%20its%20kind.>
-- <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
-- <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg>
-- Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
 
 
