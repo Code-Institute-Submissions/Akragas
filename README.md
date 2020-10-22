@@ -97,8 +97,8 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 
 - Have tested on:
     * iOS iphone: 5S, 6
-    * OSX: Chrome, Safari, Firefox, Opera. Edge
-    * Windows: 
+    * OSX: Chrome, Safari, Firefox, Opera, Edge
+    * Windows: Chrome, Edge, Explorer (check version), Firefox (check)
     * https://color.a11y.com/Contrast/ - passed
     * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
     * https://validator.w3.org/ - passed
