@@ -596,6 +596,13 @@ h4.big-hero-name {
     padding-bottom: 10px;
 }
 
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
+   /* IE10+ specific styles go here - I got this tip from https://paper-leaf.com/insights/targeting-ie-10-11-browsers-css/*/  
+   .temple-text-col {
+    padding-right: 38px;
+}
+}
+
 .temple-column {
     margin: 20px 5px 20px 5px;
 }
