@@ -238,6 +238,54 @@ header {
 }
 }
 
+@media only screen and (max-width: 1000px) {
+.hero-image {
+    background-position-x: -29rem;
+}
+}
+
+@media only screen and (max-width: 800px) {
+.hero-image {
+    background-position-x: -27rem;
+}
+}
+
+@media only screen and (max-width: 600px) {
+.hero-image {
+    background-position-x: -17rem;
+}
+}
+
+@media only screen and (max-width: 480px) {
+.hero-image {
+    background-position-x: -26rem;
+}
+}
+
+@media only screen and (max-width: 411px) {
+.hero-image {
+    background-position-x: -31rem;
+}
+}
+
+@media only screen and (max-width: 375px) {
+.hero-image {
+    background-position-x: -33rem;
+}
+}
+
+@media only screen and (max-width: 360px) {
+.hero-image {
+    background-position-x: -26rem;
+}
+}
+
+@media only screen and (max-width: 300px) {
+.hero-image {
+    background-position-x: -32rem;
+}
+}
+
 /*-------------------------------------------------------- Quote Box */
 
 .quote-box {
@@ -262,8 +310,8 @@ header {
     color: rgba(248, 18, 60, 1);
     padding: 7%;
     z-index: 1;
-    margin-bottom: 25%;
-    margin-left: 15%;
+    margin-bottom: 45%;
+    margin-left: 15%;;
     }
 
 h3.big-hero-text {
