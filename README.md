@@ -108,10 +108,14 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 * GitPod
 * Bootstrap
 * fancybox
+* fancyapps?
+* fontawesome
 * HoverCSS
 * YouTube
 * Google Fonts
 * Google Maps
+* Photoshop - cropping, matteing and resizing images
+* Favicon.ico website for creating favicon <https://favicon.io/favicon-converter/>
 
 
 ## Testing
@@ -152,7 +156,8 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
     - <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg>
     - Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
-### Images
+### Media
+#### Images
 * Hero image - Regione Siciliana Assessorato dei Beni culturali e dell'Identita' siciliana Facebook page <https://www.facebook.com/assessoratobci/photos/3097187053652008?>
 * Coins image - from Wild Winds website  <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
 * Akrágas etching -  by Toni Pecoraro 2014 <https://en.wikipedia.org/wiki/File:Akragas_406_a.C..jpg>
@@ -160,8 +165,16 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 * Nighttime Juno image in Contact Section - Rene Rauschenberger photo <https://pixabay.com/photos/temple-greek-sicily-agrigento-4570359/>
 * All Gallery images attributed to photographer
 
-### Video
+#### Video
 * 3D Recreation / Reconstruction by Altair4 Multimedia Archeo3D Production
+
+### Code
+* Hover css - <https://ianlunn.github.io/Hover/#effects>
+* Gallery Template (styling) - <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
+* FancyApps (behaviour) - <http://fancyapps.com/fancybox/3/>
+* HR line - <https://stackoverflow.com/questions/41411155/does-bootstrap-4-have-a-built-in-horizontal-divider>
+* Timeline - modified code used in Code Institute UCD Resume project <https://github.com/charliekranz/UCD-resume>
+* Contact Form - modified code used in Code Institute UCD Resume project <https://github.com/charliekranz/UCD-resume>
 
 ### Resources
 #### README
@@ -189,19 +202,7 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 
 #### Additional Code Used
 
-Favicon
-- <https://favicon.io/favicon-converter/>
-
-Hover css
-- <https://ianlunn.github.io/Hover/#effects>
-
-Gallery Template 
-- <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
-- <http://fancyapps.com/fancybox/3/>
-
-HR line
-- <https://stackoverflow.com/questions/41411155/does-bootstrap-4-have-a-built-in-horizontal-divider>
-
-
-
-
+### Acknowledgelmets
+* Thank you to Ignatius
+* Online community for sharing code, media and insight
+* Grampa Verona for connecting me to such an amazing place, and for my Mom and family for sharing the same passion for All Things Sicily
