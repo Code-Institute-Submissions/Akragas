@@ -104,18 +104,19 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 ## Technologies Used
 
 * HTML and CSS programming languages
-* GitHub
-* GitPod
-* Bootstrap
-* fancybox
-* fancyapps?
-* fontawesome
-* HoverCSS
-* YouTube
-* Google Fonts
-* Google Maps
-* Photoshop - cropping, matteing and resizing images
-* Favicon.ico website for creating favicon <https://favicon.io/favicon-converter/>
+* [Balsamiq](https://balsamiq.com/) - wireframing tool
+* [Slack](https://slack.com/) - networking and communications
+* [GitHub](https://github.com/) - code repository
+* [GitPod](https://www.gitpod.io/) - cloud dev environment
+* [Bootstrap](https://getbootstrap.com/) - responsive sourcetoolkit with components and Javascipt plugins
+* [fancybox](http://fancybox.net/) - a jQuery tool for photo galleries
+* [fontawesome](https://fontawesome.com/v4.7.0/) - vector icons customisable through CSS
+* [HoverCSS](https://ianlunn.github.io/Hover/#effects) - a library of CSS hover effects
+* [YouTube](https://www.youtube.com/) - online video library with embed code
+* [Google Fonts](https://fonts.google.com/) - open source web font collection
+* [Google Maps](https://www.google.com/maps) - online mapping resource with embed code
+* [Photoshop](https://www.photoshop.com/en) - application for cropping, matteing and resizing images
+* [Favicon.ico](https://favicon.io/favicon-converter/) - website for creating favicon 
 
 
 ## Testing
@@ -151,19 +152,18 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
     - <https://www.ancient.eu/agrigento/>
     - <https://www.parcovalledeitempli.it/en/>
     - <https://www.wikiwand.com/en/Valle_dei_Templi>
-    - <https://www.petersommer.com/blog/archaeology-history/goethe-in-sicily#:~:text=The%20%22Temple%20of%20Concordia%22%20at,preserved%20examples%20of%20its%20kind.>
+    - <https://www.petersommer.com/blog/archaeology-history/goethe-in-sicily>
     - <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
-    - <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg>
     - Sicily and Its Islands - A complete guide. Uga La Rosa, Editor
 
 ### Media
 #### Images
-* Hero image - Regione Siciliana Assessorato dei Beni culturali e dell'Identita' siciliana Facebook page <https://www.facebook.com/assessoratobci/photos/3097187053652008?>
-* Coins image - from Wild Winds website  <https://www.wildwinds.com/coins/greece/sicily/akragas/i.html>
-* Akrágas etching -  by Toni Pecoraro 2014 <https://en.wikipedia.org/wiki/File:Akragas_406_a.C..jpg>
-* Dioscuri Pillars image - The Wandering Scot photo (retouched by Charlie Kranz) <http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg> 
-* Nighttime Juno image in Contact Section - Rene Rauschenberger photo <https://pixabay.com/photos/temple-greek-sicily-agrigento-4570359/>
-* All Gallery images attributed to photographer
+* [Hero image - Regione Siciliana Assessorato dei Beni culturali e dell'Identita' siciliana Facebook page](https://www.facebook.com/assessoratobci/photos/3097187053652008?)
+* [Coins image - from Wild Winds website](https://www.wildwinds.com/coins/greece/sicily/akragas/i.html)
+* [Akrágas etching -  by Toni Pecoraro 2014](https://en.wikipedia.org/wiki/File:Akragas_406_a.C..jpg)
+* [Dioscuri Pillars image - The Wandering Scot photo (retouched by Charlie Kranz)](http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg)
+* [Nighttime Juno image in Contact Section - Rene Rauschenberger photo](https://pixabay.com/photos/temple-greek-sicily-agrigento-4570359/)
+* All Gallery images attributed to photographer in Gallery Captions
 
 #### Video
 * 3D Recreation / Reconstruction by Altair4 Multimedia Archeo3D Production
