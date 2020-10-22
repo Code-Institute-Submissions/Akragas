@@ -151,7 +151,7 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 
 ### Content
 * Quotes are attributed to original authors 
-* All other text was adapted by Charlie Kranz from a variety of online and hardcopy resources:
+* All other text was written by Charlie Kranz based on a variety of online resources (and one book):
     - <https://www.brown.edu/Departments/Joukowsky_Institute/courses/greekpast/4770>
     - <http://www.perseus.tufts.edu/hopper/artifact?name=Akragas&object=site>
     - <https://www.ancient.eu/agrigento/>
@@ -206,9 +206,11 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 - I relied on Bootstrap Documentation, past Code Institute lessons and project code and W3 Schools threads for Hints
 - Some examples: Centering the embedded video <https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap/22433845>
 
-#### Additional Code Used
-
 ### Acknowledgelmets
-* Thank you to Ignatius
-* Online community for sharing code, media and insight
-* Grampa Verona for connecting me to such an amazing place, and for my Mom and family for sharing the same passion for All Things Sicily
+* Thank you to Ignatius Ukwuoma for the valuable insight, feedback and suggestions, in particular during our midpoint review.
+* The Online community and internet in general was enormously helpful for sharing code, media and tips.
+* Eternal thanks to Grampa Verona (Giovanni Virone as he was known in the Akrágas area) for ensuring my existence and connecting me to such an amazing place
+* Eternal thanks to his daughter, my Mom, as well, my eldest brother John for taking me on a trip to the Valley of Temples and to our family for sharing the same passion for "All Things Sicily"
+
+### Disclaimer
+This website was created for educational purposes only. 
