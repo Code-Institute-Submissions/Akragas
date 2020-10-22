@@ -135,18 +135,15 @@ p.intro {
 }
 
 /*--------------------------------------------------------  Logo */
-
+/* Modified navbar code from https://getbootstrap.com/docs/4.0/components/navbar/ */
 .logo {    
     border: 1px solid grey;
 
 }
 
 /*--------------------------------------------------------  Menu */
-
-/* 
-- Bootstrap Navbar code was used and modified for navbar https://getbootstrap.com/docs/4.0/components/navbar/
-- Hover CSS Hover css was used for menu buttons - <https://ianlunn.github.io/Hover/#effects> 
-*/
+/* - Bootstrap Navbar code was used and modified for navbar https://getbootstrap.com/docs/4.0/components/navbar/
+- Hover CSS Hover css was used for menu buttons - <https://ianlunn.github.io/Hover/#effects> */
 
 header {
 
@@ -207,7 +204,7 @@ header {
 }
 
 /*--------------------------------------------------------  Home */
-
+/* I know I saw code for background images through CSS, which I used, but cannot recall where I found it. As this is fairly general knowledge, I hope that this is acceptable*/
 .hero-image {
     background: url("https://charliekranz.github.io/Akragas/assets/images/akragas-panorama.jpg");
     background-position: center;
@@ -350,7 +347,6 @@ h4.big-hero-name {
     text-align: right;
 }
 
-
 /*-------------------------------------------------------- About */
 
 .about {
@@ -376,6 +372,7 @@ h4.big-hero-name {
     padding-right: 2rem;
 }
 
+/* I know I saw code for background images through CSS, which I used, but cannot recall where I found it. As this is fairly general knowledge, I hope that this is acceptable*/
 .about-image-bg {
      background: url("https://charliekranz.github.io/Akragas/assets/images/1024px-Akragas_406_a.C..jpg");
      padding-top: 5px;
@@ -418,7 +415,7 @@ h4.big-hero-name {
 }
 
 /*-------------------------------------------------------- Timeline */ 
-
+/* Timeline - modified code used in Code Institute UCD Resume project https://github.com/charliekranz/UCD-resume */
 .timeline {
     background-color: #53000f;
     min-height: 300px;
@@ -567,7 +564,6 @@ h4.big-hero-name {
 
 .temple-segments {
      background-color: rgba(254, 254, 254, 0.3);
-
 }
 
 .temple-title-section {
@@ -576,13 +572,13 @@ h4.big-hero-name {
 
 .temple-intro-title {
     padding-top: 24px;
-
 }
 
 .temple-text {
     padding-bottom: 0px;
 }
 
+/* I know I saw code for background images through CSS, which I used, but cannot recall where I found it. As this is fairly general knowledge, I hope that this is acceptable*/
 .temple-text-bg {
     background: url("https://charliekranz.github.io/Akragas/assets/images/pilars.png");
     background-position: center;
@@ -599,11 +595,14 @@ h4.big-hero-name {
 .temple-text-col {
     padding-bottom: 10px;
 }
+
 .temple-column {
     margin: 20px 5px 20px 5px;
 }
 
 /*--------------------------------------------------------  Compact Gallery */
+/* Gallery code from https://demo.tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates/#compact-gallery which I further styled*/
+
 .gallery-block{
   padding-bottom: 60px;
   padding-top: 60px;
@@ -705,6 +704,7 @@ h4.big-hero-name {
     font-weight: 700;
 }
 
+/*Gallery and caption code from http://fancyapps.com/fancybox/3/ which I further styled*/
 .fancybox-caption__body {
     font-size: 1.4em;
     font-weight: bold;
@@ -743,7 +743,7 @@ h4.big-hero-name {
 }
 
 /*--------------------------------------------------------  Contact */
-
+/*-- Contact Form - modified code used in Code Institute UCD Resume project https://github.com/charliekranz/UCD-resume */
 .contact {
     color: #efefef; 
     background-color: #0A4B66;
