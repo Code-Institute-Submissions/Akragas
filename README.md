@@ -2,8 +2,7 @@
 
 # <center>Akrágas Website</center>
 
-For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, has **astounded visitors**.<br>
--- And yet many people are still unaware of its existence.
+For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, has **astounded visitors** -- and yet many people are still unaware of its existence.
 
 The Akrágas webite seeks to introduce Akrágas to a wider audience.
 Using evocative, representative images and video; interesting facts, quotes and historical context, as well a direct link to booking site - this website will connect people to the place. <br>
@@ -100,6 +99,7 @@ There are one or two features such as relocating the social icons on smaller dev
 Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. - *Fixed by replacing with fancybox*
 - Surface Duo not seeming to conform to pixel size breakpoint of embed video box - *Fixed with CSS restyling*
 - favico wasn't appearing. - *Got fix from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>*
+- Layout issues on Windows 11 with Video Box and Temples section, both caused by an unnecessary row, which I removed. Interesting to see that this row wasn;t causing any issues across the other browsers.
 
 ## Technologies Used
 
@@ -124,11 +124,16 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 - Have tested on:
     * iOS iphone: 5S, 6
     * OSX: Chrome, Safari, Firefox, Opera, Edge
-    * Windows: Chrome, Edge, Explorer (check version), Firefox (check)
+    * Windows: Chrome, Edge, Explorer (small issue with Temples columns, see below), Firefox
+
+- Have tested with:
     * https://color.a11y.com/Contrast/ - passed
     * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
     * https://validator.w3.org/ - passed
     * https://html5.validator.nu/ - passed
+
+## Issues 
+- Windows IE 11: small issue with Temples columns, temple-text-col padding-right. If I can target and make 38px, may fix
 
 ## Deployment
 
@@ -169,6 +174,7 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 * 3D Recreation / Reconstruction by Altair4 Multimedia Archeo3D Production
 
 ### Code
+* Navbar - Modified navbar code from <https://getbootstrap.com/docs/4.0/components/navbar/>
 * Hover css - <https://ianlunn.github.io/Hover/#effects>
 * Gallery Template (styling) - <https://tutorialzine.com/2018/03/3-amazing-bootstrap-4-gallery-templates>
 * FancyApps (behaviour) - <http://fancyapps.com/fancybox/3/>

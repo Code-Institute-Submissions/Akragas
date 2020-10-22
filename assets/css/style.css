@@ -18,13 +18,11 @@ hr {
     border-top: 1px solid rgba(179, 18, 48, 0.74);
 }
 
-
 /*-------------------------------------------------------- Colours */
 
 .red {
     color: #660012;
 }
-
 
 .grey {
     color: #505050;
@@ -54,7 +52,6 @@ hr {
     color:#b3122f;
 }
 
-
 /*-------------------------------------------------------- Fonts */
 
 h1, h2, h3, h4, h5, h6 {
@@ -68,7 +65,6 @@ p {
 a {
     color: #660012;
  }
-
 
 a:hover {
     color: #f8123c;
@@ -138,14 +134,12 @@ p.intro {
 
 }
 
-
 /*--------------------------------------------------------  Logo */
 
 .logo {    
     border: 1px solid grey;
 
 }
-
 
 /*--------------------------------------------------------  Menu */
 
@@ -394,7 +388,6 @@ h4.big-hero-name {
 
 /*-------------------------------------------------------- Video Box */ 
 
-
 .container-fluid.video-box {
     padding-right: 0px;
     padding-left: 0px;
@@ -421,7 +414,6 @@ h4.big-hero-name {
     transform: translate(-50%, -5%);
     padding-top: 2px;
     padding-bottom: 10px;
-
 }
 }
 
@@ -432,7 +424,6 @@ h4.big-hero-name {
     min-height: 300px;
     padding-top: 20px;
     padding-bottom: 20px;
-
 }
 
 .timeline-title {
@@ -449,9 +440,7 @@ h4.big-hero-name {
     border-bottom: 1px solid;
 }
 
-
 /*-------------------------------------------------------- Timeline Horizontal */ 
-
 
 .timeline-point-hoz {
     margin-top: 65px;
@@ -460,7 +449,6 @@ h4.big-hero-name {
     border-top: 1px solid;
     text-align: center;
     color: #c6babc;
-
 }
 
 .timeline-point-hoz:before {
@@ -532,7 +520,6 @@ h4.big-hero-name {
 }
 
 /*-------------------------------------------------------- Timeline Vertical */ 
-
 
 .timeline-point-vert {
     padding: 4em 2em 1em 2em;
@@ -669,7 +656,6 @@ h4.big-hero-name {
     background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.39));
 }
 
-
 .gallery-block.compact-gallery .item .description .description-body{
   font-size: 0.8em;
   margin-top: 10px;
@@ -702,7 +688,6 @@ h4.big-hero-name {
     padding-top: 1.5rem;
     padding-bottom: 0.75rem;
 }
-
 
 .gallery-block {
     padding-bottom: 20px;
