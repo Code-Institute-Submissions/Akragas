@@ -223,12 +223,36 @@ header {
     min-height: 420px;
 }
 
+.intro2 {
+    margin-bottom: 3.6rem;
+}
+
+@media only screen and (max-width: 1800px) {
+.intro2 {
+    margin-bottom: 3rem;
+}
+}
+
+@media only screen and (max-width: 1300px) {
+.intro2 {
+    margin-bottom: 2rem;
+}
+}
+
+@media only screen and (max-width: 900px) {
+.intro2 {
+    margin-bottom: 2rem;
+}
+}
+
 @media only screen and (max-width: 778px) {
 .intro1 {
     font-size: 1.5rem;
 }
 .intro2 {
     font-size: 1.3rem;
+    margin-bottom: .75rem;
+
 }
 }
 

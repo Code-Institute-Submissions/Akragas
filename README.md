@@ -158,7 +158,7 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 
 ### Media
 #### Images
-* [Hero image - Regione Siciliana Assessorato dei Beni culturali e dell'Identita' siciliana Facebook page](https://www.facebook.com/assessoratobci/photos/3097187053652008?)
+* [Hero image - by Emanuele Simonaro from Agrigento Facebook page](https://www.facebook.com/assessoratobci/photos/3097187053652008?)
 * [Coins image - from Wild Winds website](https://www.wildwinds.com/coins/greece/sicily/akragas/i.html)
 * [Akrágas etching -  by Toni Pecoraro 2014](https://en.wikipedia.org/wiki/File:Akragas_406_a.C..jpg)
 * [Dioscuri Pillars image - The Wandering Scot photo (retouched by Charlie Kranz)](http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg)
