@@ -363,13 +363,20 @@ h4.big-hero-name {
 }
 
 .about-intro-row {
-    margin: 0px 6px 0px 6px;
+   /* margin: 0px 6px 0px 6px;*/ 
 }
 
 .about-body-text {
     margin-bottom: 0.75em;
+    padding-left: 2rem;
+    padding-right: 2.5rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .about-body-text {
     padding-left: 1rem;
-    padding-right: 2rem;
+    padding-right: 1rem;
+}
 }
 
 /* I know I saw code for background images through CSS, which I used, but cannot recall where I found it. As this is fairly general knowledge, I hope that this is acceptable*/
