@@ -109,6 +109,7 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 * [GitHub](https://github.com/) - code repository
 * [GitPod](https://www.gitpod.io/) - cloud dev environment
 * [Bootstrap](https://getbootstrap.com/) - responsive sourcetoolkit with components and Javascipt plugins
+* [flexbox]
 * [fancybox](http://fancybox.net/) - a jQuery tool for photo galleries
 * [fontawesome](https://fontawesome.com/v4.7.0/) - vector icons customisable through CSS
 * [HoverCSS](https://ianlunn.github.io/Hover/#effects) - a library of CSS hover effects
