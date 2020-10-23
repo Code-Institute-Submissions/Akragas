@@ -469,11 +469,12 @@ h4.big-hero-name {
     display: block;
     top: -0.4em;
     position: absolute;
-    left: 105px;
+    left: 50px;
     border-radius: 12px;
     content: '';
     background: #fafafa;
 }
+
 
 .date-info-hoz {
     font-size: 18px;
@@ -483,6 +484,12 @@ h4.big-hero-name {
  @media only screen and (max-width: 1200px) {
     .date-info-hoz {
         font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .date-info-hoz {
+        font-size: 14.5px;
     }
 }
 
@@ -511,11 +518,20 @@ h4.big-hero-name {
     background: #fafafa;
 }
 
- @media only screen and (max-width: 840px) {
+@media only screen and (max-width: 920px) {
+    .timeline-point-hoz:before {
+        left: 2em;
+    }
+    .timeline-point-hoz:after {
+        left: 60px;
+    }
+}
+
+ /*@media only screen and (max-width: 840px) {
     .timeline-point-hoz:before {
         top: -4em;
     }
-}
+}*/
 
 /*-------------------------------------------------------- Timeline Vertical */ 
 
