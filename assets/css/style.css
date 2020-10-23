@@ -564,6 +564,8 @@ h4.big-hero-name {
 
 .temple-segments {
      background-color: rgba(254, 254, 254, 0.3);
+    display: flex;               /*  testing - may not work - https://stackoverflow.com/questions/47137289/making-flexbox-work-in-ie11 */
+
 }
 
 .temple-title-section {
