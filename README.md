@@ -49,6 +49,7 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
     - Imagery is vitally important for conveying the scale and scope of this archaelogical site. 
     - I was fortunate to source an image close to what I envisioned for the hero image.
     - I felt that by using additional images such as the coins and map I could convey archealogical and historical aspects of the site.
+    - I took advice to also include the starry sky imagery as background in the Gallery section, so that it works in concert with the Contact section.
 
 - #### Video 
     - Video is further useful in showing how Akgrágas was believed to look when the ancient city was flourishing.
