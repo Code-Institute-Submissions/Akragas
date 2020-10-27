@@ -168,6 +168,7 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 * [Coins image - from Wild Winds website](https://www.wildwinds.com/coins/greece/sicily/akragas/i.html)
 * [Akrágas etching -  by Toni Pecoraro 2014](https://en.wikipedia.org/wiki/File:Akragas_406_a.C..jpg)
 * [Dioscuri Pillars image - The Wandering Scot photo (retouched by Charlie Kranz)](http://thewanderingscot.com/photos/2014%20Tunisia-Sicily-Malta/Sicily/midis/IMG_4461.jpg)
+* [Nighttime Starry Sky image in Gallery Section by Felix Mittermeier(retouched by Charlie Kranz)](https://pxhere.com/en/photo/1438039)
 * [Nighttime Juno image in Contact Section - Rene Rauschenberger photo](https://pixabay.com/photos/temple-greek-sicily-agrigento-4570359/)
 * All Gallery images attributed to photographer in Gallery Captions
 
