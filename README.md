@@ -109,7 +109,6 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 * [GitHub](https://github.com/) - code repository
 * [GitPod](https://www.gitpod.io/) - cloud dev environment
 * [Bootstrap](https://getbootstrap.com/) - responsive sourcetoolkit with components and Javascipt plugins
-* [flexbox]
 * [fancybox](http://fancybox.net/) - a jQuery tool for photo galleries
 * [fontawesome](https://fontawesome.com/v4.7.0/) - vector icons customisable through CSS
 * [HoverCSS](https://ianlunn.github.io/Hover/#effects) - a library of CSS hover effects
@@ -119,15 +118,17 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 * [Photoshop](https://www.photoshop.com/en) - application for cropping, matteing and resizing images
 * [Favicon.ico](https://favicon.io/favicon-converter/) - website for creating favicon 
 
-
 ## Testing
 
-- Have tested on:
-    * iOS iphone: 5S, 6
-    * OSX: Chrome, Safari, Firefox, Opera, Edge
-    * Windows: Chrome, Edge, Explorer (small issue with Temples columns, see below), Firefox
+- Have tested using:
+    * Responsive devices on Google Developer Tools
+    * iPhone 5S & 6 and iPad Pro
+    * OSX Browsers: Chrome, Safari, Firefox, Opera, Edge
+    * Windows Browsers: Chrome, Edge, Explorer, Firefox
 
-- Have tested with:
+- Testing included looking at each section and functionality (anchor links, external links, galleries and forms) to ensure all is working optimally
+
+- Have also tested with validation checks:
     * https://color.a11y.com/Contrast/ - passed
     * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
     * https://validator.w3.org/ - passed
@@ -140,13 +141,12 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 
 This was deployed on GitHub Pages and can be viewed at: <a href="https://charliekranz.github.io/Akragas/" target="_blank">https://charliekranz.github.io/Akragas/</a>
 
-* Before my mid-point meeting with Ignatius, I deployed the website by:
+* Before my mid-point meeting I deployed the website by:
     * Selecting the repository in GitHub account
     * Clicked on Settings 
     * In GitHub Pages section, selected Master Branch as source
     * Clicked Save 
     * Shared the url of the published site
-
 
 ## Credits
 
