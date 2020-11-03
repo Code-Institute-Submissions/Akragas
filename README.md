@@ -2,12 +2,17 @@
 
 # <center>Akrágas Website</center>
 
-For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, has **astounded visitors** -- and yet many people are still unaware of its existence.
+For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, 
+has **astounded visitors** -- and yet many people are still unaware of its existence.
 
 The Akrágas webite seeks to introduce Akrágas to a wider audience.
-Using evocative, representative images and video; interesting facts, quotes and historical context, as well a direct link to booking site - this website will connect people to the place. <br>
+Using evocative, representative images and video; interesting facts, quotes and historical context, as well 
+a direct link to booking site - this website will connect people to the place. <br>
 
-As someone with direct ties to the ancient city *(my grandafather and our ancestors are from the area)* I am passionate about sharing this remarkable location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy increased and ongoing interest from tourists, historians and adventure seekers alike.
+As someone with direct ties to the ancient city *(my grandafather and our ancestors are from the area)* I 
+am passionate about sharing this remarkable 
+location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy increased and 
+ongoing interest from tourists, historians and adventure seekers alike.
 
 ***
 
@@ -26,7 +31,8 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
 - #### Returning Visitor Goals
     1. As a Returning Visitor, I want to easily understand the content and subject matter of the website.
     2. As a Returning Visitor, I want to have the ability to ask questions directly of the website owners.
-    3. As a Returning Visitor, I want to understand that the content matter stretches back thousands of years from the original city, Akrágas, to moderns-day Agrigento and The Valley of the Temples.
+    3. As a Returning Visitor, I want to understand that the content matter stretches back thousands of years from the original city, 
+    Akrágas, to moderns-day Agrigento and The Valley of the Temples.
 
 - #### Frequent User Goals
     1. As a Frequent User, I want to be able to refer others to the website.
@@ -37,8 +43,10 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
     - Shades of red to echo Sicilian identity (flag), but using duskier tones.
     - A complimentary light dusky blue to emulate sky and sea.
     - White and bright red for contrast and important sections (About) and well as UX (Buttons).
-    - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red which expresses the vitality that this ancient site still holds to this day.
-    - Although I quite liked the bright red on maroon treatment for the timeline, I knew that accessibility was more important and so used higher-contrast cobination of white/grey on maroon.
+    - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red 
+    which expresses the vitality that this ancient site still holds to this day.
+    - Although I quite liked the bright red on maroon treatment for the timeline, I knew that accessibility was more important and 
+    so used higher-contrast cobination of white/grey on maroon.
 
 - #### Typography
     - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
@@ -75,7 +83,8 @@ As someone with direct ties to the ancient city *(my grandafather and our ancest
 
 ### Potential Future Features
 
-* Past-to-Present Day Image Comparison - would allow users to move slider to compare what current ruins would have looked like in their original from, possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
+* Past-to-Present Day Image Comparison - would allow users to move slider to compare what current ruins would have looked like in their original from, 
+possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 * UNESCO Information - would inform user of the international standing and signifigance of the archaelogical site
 * Latest News Section - recent news would also make the website more "sticky", encouraging return visits
 
@@ -100,7 +109,8 @@ There are one or two features such as relocating the social icons on smaller dev
 Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. - *Fixed by replacing with fancybox*
 - Surface Duo not seeming to conform to pixel size breakpoint of embed video box - *Fixed with CSS restyling*
 - favico wasn't appearing. - *Got fix from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>*
-- Layout issues on Windows 11 with Video Box and Temples section, both caused by an unnecessary row, which I removed. Interesting to see that this row wasn;t causing any issues across the other browsers.
+- Layout issues on Windows 11 with Video Box and Temples section, both caused by an unnecessary row, which I removed. 
+Interesting to see that this row wasn;t causing any issues across the other browsers.
 
 ## Technologies Used
 
@@ -127,7 +137,7 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
     * OSX Browsers: Chrome, Safari, Firefox, Opera, Edge
     * Windows Browsers: Chrome, Edge, Explorer, Firefox
 
-- Testing included looking at each section and functionality (anchor links, external links, galleries and forms) to ensure all is working optimally
+- Testing included looking at each section and functionality (anchor links, external links, galleries and forms) to ensure all is working optimally and properly
 
 - Have also tested with validation checks:
     * https://validator.w3.org/ - passed
@@ -211,10 +221,11 @@ This was deployed on GitHub Pages and can be viewed at: <a href="https://charlie
 - Some examples: Centering the embedded video <https://stackoverflow.com/questions/22433616/how-can-i-align-youtube-embedded-video-in-the-center-in-bootstrap/22433845>
 
 ### Acknowledgelmets
-* Thank you to Ignatius Ukwuoma for the valuable insight, feedback and suggestions, in particular during our midpoint review.
+* Thank you to my mentor, Ignatius Ukwuoma, for his valuable insight, feedback and suggestions throughout the project.
 * The Online community and internet in general was enormously helpful for sharing code, media and tips.
 * Eternal thanks to Grampa Verona (Giovanni Virone as he was known in the Akrágas area) for ensuring my existence and connecting me to such an amazing place
-* Eternal thanks to his daughter, my Mom, as well, my eldest brother John for taking me on a trip to the Valley of Temples and to our family for sharing the same passion for "All Things Sicily"
+* Eternal thanks to his daughter, my Mom, for life - to my eldest brother John for taking me on a trip to the Valley of the Temples and to our family 
+for sharing the same passion for "All Things Sicily"
 
 ### Disclaimer
 This website was created for educational purposes only. 
