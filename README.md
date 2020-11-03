@@ -2,7 +2,7 @@
 
 # <center>Akrágas Website</center>
 
-For over two thousand years the city of Akrágas, now known as Agrigento or The Valley of Temples, 
+For over two thousand years the city of Akrágas, now known as Agrigento or the Valley of the Temples, 
 has **astounded visitors** -- and yet many people are still unaware of its existence.
 
 The Akrágas webite seeks to introduce Akrágas to a wider audience.
@@ -32,7 +32,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
     1. As a Returning Visitor, I want to easily understand the content and subject matter of the website.
     2. As a Returning Visitor, I want to have the ability to ask questions directly of the website owners.
     3. As a Returning Visitor, I want to understand that the content matter stretches back thousands of years from the original city, 
-    Akrágas, to moderns-day Agrigento and The Valley of the Temples.
+    Akrágas, to moderns-day Agrigento and the Valley of the Temples.
 
 - #### Frequent User Goals
     1. As a Frequent User, I want to be able to refer others to the website.
