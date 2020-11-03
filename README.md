@@ -130,10 +130,11 @@ Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/21
 - Testing included looking at each section and functionality (anchor links, external links, galleries and forms) to ensure all is working optimally
 
 - Have also tested with validation checks:
-    * https://color.a11y.com/Contrast/ - passed
-    * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
     * https://validator.w3.org/ - passed
     * https://html5.validator.nu/ - passed
+    * https://color.a11y.com/Contrast/ - passed (one reported issue with Gallery title contrast, however this was due to the validator not accounting for the BG image
+    As the contrast here is nearly the exact same as Contact section, I am disregarding.)
+    * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
 
 ## Issues 
 - Windows IE 11: small issue with Temples columns, temple-text-col padding-right. If I can target and make 38px, may fix
