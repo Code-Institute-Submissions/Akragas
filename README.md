@@ -88,6 +88,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
 possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 * UNESCO Information - would inform user of the international standing and signifigance of the archaelogical site
 * Latest News Section - recent news would also make the website more "sticky", encouraging return visits
+* An Italian language version - add functionality to toggle between languages
 
 ## Development history
 
