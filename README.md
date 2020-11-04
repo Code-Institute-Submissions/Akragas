@@ -75,7 +75,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
 * Hero-Home Section - captures user's attention and conveys subject matter using compelling images and quote
 * About Section - shows user the 3d model recreation video, conveys a summary of topic and includes another interesting quote
 * Timeline Section - allows user to see an overview of important events relating to topic
-* The Temples Section - allows users to see an overview of Temples and breakdown of each
+* The Temples Section - allows users to see an overview of Temples and breakdown of each, also highlights a third quote
 * Gallery Section - allows users to see a selection of images
 * Contact Section - allows users to send message and/or visit social media accounts
 * Footer Section - a secondary navigation section. 
@@ -88,7 +88,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
 possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 * UNESCO Information - would inform user of the international standing and signifigance of the archaelogical site
 * Latest News Section - recent news would also make the website more "sticky", encouraging return visits
-* An Italian language version - add functionality to toggle between languages
+* An Italian language version - would add functionality allowing user to toggle between English and Italian languages
 
 ## Development history
 
@@ -107,9 +107,9 @@ possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 There are one or two features such as relocating the social icons on smaller devices and possible using captions on image gallery (when clicked).
 
 ## Debugging
-- Need to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
-Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. May replace gallery entirely with fancybox option. - *Fixed by replacing with fancybox*
-- Surface Duo not seeming to conform to pixel size breakpoint of embed video box - *Fixed with CSS restyling*
+- Needed to address: baguetteBox.min.js:7 Uncaught (in promise) TypeError: Failed to execute 'exitFullscreen' on 'Document': Document not active. 
+Appears to be a known error: https://github.com/feimosi/baguetteBox.js/issues/212. - *Fixed by replacing with fancybox*
+- Surface Duo seemed to not conform to pixel size breakpoint of embed video box - *Fixed with CSS restyling*
 - favico wasn't appearing. - *Got fix from <https://stackoverflow.com/questions/46163065/github-pages-website-favicon-not-showing>*
 - Layout issues on Windows 11 with Video Box and Temples section, both caused by an unnecessary row, which I removed. 
 Interesting to see that this row wasn;t causing any issues across the other browsers.
@@ -144,12 +144,9 @@ Interesting to see that this row wasn;t causing any issues across the other brow
 - Have also tested with validation checks:
     * https://validator.w3.org/ - passed
     * https://html5.validator.nu/ - passed
-    * https://color.a11y.com/Contrast/ - passed (one reported issue with Gallery title contrast, however this was due to the validator not accounting for the BG image
+    * https://color.a11y.com/Contrast/ - passed (one reported issue with Gallery title contrast, however this was due to the validator not accounting for the BG image.
     As the contrast here is nearly the exact same as Contact section, I am disregarding.)
     * https://jigsaw.w3.org/css-validator/ - issues with bootstrap.min.css and .fancybox.min.css - but neither involved my code so haven't addressed
-
-## Issues 
-- Windows IE 11: small issue with Temples columns, temple-text-col padding-right. If I can target and make 38px, may fix
 
 ## Deployment
 
