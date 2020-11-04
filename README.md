@@ -5,12 +5,12 @@
 For over two thousand years the city of Akrágas, now known as Agrigento or the Valley of the Temples, 
 has **astounded visitors** -- and yet many people are still unaware of its existence.
 
-The Akrágas webite seeks to introduce Akrágas to a wider audience.
+The Akrágas website seeks to introduce Akrágas to a wider audience.
 Using evocative, representative images and video; interesting facts, quotes and historical context, as well 
-a direct link to booking site - this website will connect people to the place. <br>
+a direct link to the booking site - this website will connect people to the place. <br>
 
-As someone with direct ties to the ancient city *(my grandafather and our ancestors are from the area)* I 
-am passionate about sharing this remarkable 
+As someone with direct ties to the ancient city *(my grandafather and ancestors going back several
+centuries are from the area)* I am passionate about sharing this remarkable 
 location with the world and hope that Akrágas, Agrigento and the island of Sicily can enjoy increased and 
 ongoing interest from tourists, historians and adventure seekers alike.
 
@@ -46,7 +46,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
     - I am pleased with this revised colour scheme as I feel it pays homage to traditional tones yet makes a feature of the bright red 
     which expresses the vitality that this ancient site still holds to this day.
     - Although I quite liked the bright red on maroon treatment for the timeline, I knew that accessibility was more important and 
-    so used higher-contrast cobination of white/grey on maroon.
+    so used higher-contrast combination of white/grey on maroon.
 
 - #### Typography
     - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
@@ -61,11 +61,11 @@ ongoing interest from tourists, historians and adventure seekers alike.
 
 - #### Video 
     - Video is further useful in showing how Akgrágas was believed to look when the ancient city was flourishing.
-    - The 3D recreation video achieves so much in terms of communicating the ssize and scale of Akrágas at its height.
+    - The 3D recreation video achieves so much in terms of communicating the size and scale of Akrágas at the height of its prominence.
 
 - #### Wireframes
-    - Desktop Wireframe: [View](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
-    - Mobile Wireframe:  [View](https://github.com/charliekranz/Akragas/blob/master/assets/wireframes/Akragas-Mobile-wireframe.pdf)<br>
+    - Desktop Wireframe: [View](https://charliekranz.github.io/Akragas/assets/wireframes/Akragas-Wireframe-diagram-v1.pdf)<br>
+    - Mobile Wireframe:  [View](https://charliekranz.github.io/Akragas/assets/wireframes/Akragas-Mobile-wireframe.pdf)<br>
 
 
 ## Features
