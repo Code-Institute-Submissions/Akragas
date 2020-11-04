@@ -89,6 +89,7 @@ possibly using: <https://www.w3schools.com/howto/howto_js_image_comparison.asp>
 * UNESCO Information - would inform user of the international standing and signifigance of the archaelogical site
 * Latest News Section - recent news would also make the website more "sticky", encouraging return visits
 * An Italian language version - would add functionality allowing user to toggle between English and Italian languages
+* Would investigate moving favicos to their own directory to de-clutter root directory
 
 ## Development history
 
