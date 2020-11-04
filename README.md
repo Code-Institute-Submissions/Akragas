@@ -80,8 +80,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
 * Contact Section - allows users to send message and/or visit social media accounts
 * Footer Section - a secondary navigation section. 
 * Responsivity - Responsive across devices
-<img src="https://charliekranz.github.io/Akragas/assets/images/hoz-time.jpg" style="max-width:100%;">
-<img src="https://charliekranz.github.io/Akragas/assets/images/vert-time.jpg" style="max-width:40%;">
+<img src="https://charliekranz.github.io/Akragas/assets/images/timeline-comparison.jpg" >
 
 ### Potential Future Features
 
