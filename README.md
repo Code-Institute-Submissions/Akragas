@@ -48,6 +48,11 @@ ongoing interest from tourists, historians and adventure seekers alike.
     - Although I quite liked the bright red on maroon treatment for the timeline, I knew that accessibility was more important and 
     so used higher-contrast combination of white/grey on maroon.
 
+- ### UI/UX
+    - A one page layout seemed the best fit for this content as it allows the user to peruse each section through scrolling or clicks.
+    - The menu is clearly indicated across all views and the buttons are easy to see.
+    - The footer menu offers a secondary ability to access sections directly.
+
 - #### Typography
     - Typefaces used are Lexend Peta for titles/headers and Open Sans for body text with Sans Serif as the fallback if fonts aren't imported correctly.
     - Lexend Peta has a strong, wide face which expresses the epic and wide feeling of this historical site.
@@ -80,6 +85,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
 * Contact Section - allows users to send message and/or visit social media accounts
 * Footer Section - a secondary navigation section. 
 * Responsivity - Responsive across devices
+
 <img src="/assets/images/timeline-compare-new.jpg" >
 
 ### Potential Future Features
