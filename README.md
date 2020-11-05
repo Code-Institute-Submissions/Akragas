@@ -48,7 +48,7 @@ ongoing interest from tourists, historians and adventure seekers alike.
     - Although I quite liked the bright red on maroon treatment for the timeline, I knew that accessibility was more important and 
     so used higher-contrast combination of white/grey on maroon.
 
-- ### UI/UX
+- ### UI
     - A one page layout seemed the best fit for this content as it allows the user to peruse each section through scrolling or clicks.
     - The menu is clearly indicated across all views and the buttons are easy to see.
     - The footer menu offers a secondary ability to access sections directly.
